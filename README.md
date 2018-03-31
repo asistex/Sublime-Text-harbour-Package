@@ -1,7 +1,7 @@
 # Sublime-Text-harbour-Package
 sublime text 3 package for harbour language. 
 
-**harbour.sublime-files** has all Harbour functions listed in
+**harbour.sublime-files** has Harbour functions listed in
 https://github.com/Petewg/harbour-core/wiki
  
 * Harbour specific core functions. from hb_A* to hb_Z*.
@@ -9,11 +9,11 @@ https://github.com/Petewg/harbour-core/wiki
 * hbWin lib
 * Serial communication port API functions hb_com*()
 
-Thanks to Pete Petewg for the documentation of harbour functions.
+Thanks to **Pete Petewg** for the documentation of harbour functions.
 
 This project is based on https://github.com/rafathefull/harbour
 
-Thanks rafathefull
+Thanks **rafathefull**
 
 If you encounter a bug, please [create an issue] here:
 https://github.com/asistex/Sublime-Text-harbour-Package/issues
@@ -22,7 +22,7 @@ License GNU General Public License
 
 Contributions to this package are welcome. 
 
-### Download Manually
+#### Download Manually
 * Download the files using the GitHub [.zip download option] **Sublime-Text-harbour-Package-master.zip
 
 * Unzip it in **..\Documents and Settings\Xp\program files\Sublime Text 3\Packages\User**
@@ -32,7 +32,8 @@ Contributions to this package are welcome.
 If you are new to Sublime I recommend the [Perfect Workflow in Sublime Text](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) tutorial.
 
 
-**Spanish**
+
+## Spanish
 
 Archivos para usar con el editor de codigo Sublime Text 3
 
@@ -53,7 +54,7 @@ https://github.com/asistex/Sublime-Text-harbour-Package/issues
 
 Si quieres contribuir, eres bienvenido
 
-### Descarga manual
+#### Descarga manual
 * Descarga el archivo usando la opcion de GitHub [.zip download option] **Sublime-Text-harbour-Package-master.zip**
 
 * Descomprime el archivo .zip en la carpeta **..\Documents and Settings\Xp\program files\Sublime Text 3\Packages\User**
