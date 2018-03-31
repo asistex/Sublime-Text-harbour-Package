@@ -14,4 +14,23 @@ This project is based on https://github.com/rafathefull/harbour
 
 Thanks rafathefull
 
-GNU General Public License
+Report something to fix on:
+https://github.com/asistex/Sublime-Text-harbour-Package/issues
+
+License GNU General Public License
+
+**Spanish**
+
+Archivos para usar con el editor de codigo Sublime Text 3
+
+Estan cargadas las funciones listadas en la pagina de PeteWg
+
+https://github.com/Petewg/harbour-core/wiki
+
+desde hb_A* hasta hb_Z* y y las clipper compatible desde A hasta Z
+
+Licencia GNU General Public License
+
+En caso de encontrar problemas reportar en 
+
+https://github.com/asistex/Sublime-Text-harbour-Package/issues
