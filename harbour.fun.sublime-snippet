@@ -1,0 +1,11 @@
+<snippet>
+   <description>Function</description>
+      <content>
+<![CDATA[FUNCTION ${1:name}( ${2:param} )
+   ${3:body}
+   RETURN (${4:.T.})$0
+]]></content>
+      <tabTrigger>funci</tabTrigger>
+      <scope>source.harbour</scope>
+</snippet>
+
