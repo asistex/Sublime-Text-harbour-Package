@@ -14,5 +14,4 @@ This project is based on https://github.com/rafathefull/harbour
 
 Thanks rafathefull
 
-
 GNU General Public License
