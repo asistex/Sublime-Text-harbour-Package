@@ -1,0 +1,17 @@
+<snippet>
+        <description>begin sequence</description>
+    <content>
+<![CDATA[
+BEGIN SEQUENCE
+   ${1:/* code */}
+
+[ RECOVER USING oErr ]
+   ${2:/* recoverCode */}
+
+[ ALWAYS ]
+   ${3:/* alwaysCode */}
+   
+END SEQUENCE ]]></content>
+    <tabTrigger>begin</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>
