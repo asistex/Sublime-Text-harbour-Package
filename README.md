@@ -16,7 +16,7 @@ This project is based on https://github.com/rafathefull/harbour
 Thanks **rafathefull**
 
 If you encounter a bug, please [create an issue] here:
-https://github.com/asistex/Sublime-Text-harbour-Package/issues
+https://github.com/asistex/Sublime-Text-harbour-Package/issues  **New Issue**
 
 License GNU General Public License
 
@@ -50,7 +50,7 @@ Licencia GNU General Public License
 
 En caso de encontrar problemas reportar en 
 
-https://github.com/asistex/Sublime-Text-harbour-Package/issues
+https://github.com/asistex/Sublime-Text-harbour-Package/issues  **New Issue**
 
 Si quieres contribuir, eres bienvenido
 
