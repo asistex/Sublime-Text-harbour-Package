@@ -4,9 +4,10 @@ sublime text 3 package for harbour language.
 **harbour.sublime-files** has all Harbour functions listed in
 https://github.com/Petewg/harbour-core/wiki
  
-Harbour specific core functions. from hb_A* to hb_Z*.
-
-Clipper compatible functions. from A to Z.
+* Harbour specific core functions. from hb_A* to hb_Z*.
+* Clipper compatible functions. from A to Z.
+* hbWin lib
+* Serial communication port API functions hb_com*()
 
 Thanks to Pete Petewg for the documentation of harbour functions.
 
@@ -27,7 +28,10 @@ Estan cargadas las funciones listadas en la pagina de PeteWg
 
 https://github.com/Petewg/harbour-core/wiki
 
-desde hb_A* hasta hb_Z* y y las clipper compatible desde A hasta Z
+* funciones hb_A* hasta hb_Z* 
+* funciones clipper compatible desde A hasta Z
+* hbWin libreria
+* funciones de comunicacion serial hb_com*()
 
 Licencia GNU General Public License
 
