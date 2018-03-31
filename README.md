@@ -1,7 +1,7 @@
 # Sublime-Text-harbour-Package
 sublime text 3 package for harbour language. 
 
-**harbour.sublime-completions** has all Harbour functions listed in
+**harbour.sublime-files** has all Harbour functions listed in
 https://github.com/Petewg/harbour-core/wiki
  
 Harbour specific core functions. from hb_A* to hb_Z*.
