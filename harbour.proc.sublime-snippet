@@ -1,0 +1,10 @@
+<snippet>
+   <description>Procedure</description>
+      <content>
+<![CDATA[PROCEDURE ${1:name}( ${2:param} )
+   ${3:body}
+   RETURN 
+]]></content>
+      <tabTrigger>proce</tabTrigger>
+      <scope>source.harbour</scope>
+</snippet>
