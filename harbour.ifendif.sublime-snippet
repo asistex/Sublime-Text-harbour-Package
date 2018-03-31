@@ -1,0 +1,8 @@
+<snippet>
+	<description>if..endif</description>
+    <content><![CDATA[IF (${1:condicion})
+   ${0: }
+ENDIF]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>
