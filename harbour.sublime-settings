@@ -1,0 +1,6 @@
+// These settings override both User and Default settings for the Harbour syntax
+{
+   "font_size": 12,	
+   "match_brackets_angle": true,
+   "margin": 0,
+}
