@@ -35,7 +35,7 @@ Contributions to this package are welcome.
 
 
 
-## Spanish
+## Español / Spanish
 
 Archivos para usar con el editor de codigo Sublime Text 3
 
