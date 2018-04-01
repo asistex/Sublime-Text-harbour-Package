@@ -15,21 +15,21 @@ This project is based on https://github.com/rafathefull/harbour
 
 Thanks **rafathefull**
 
-If you encounter a bug, please [create an issue] here:
+If you encounter a bug, please create an issue here:
 
 https://github.com/asistex/Sublime-Text-harbour-Package/issues  **New Issue**
 
-License GNU General Public License
+*License GNU General Public License*
 
 Contributions to this package are welcome. 
 
 #### Download Manually
 * Download the files using the GitHub [.zip download option] **Sublime-Text-harbour-Package-master.zip**
 
-* From Sublime main menu > Preferences > Browse Packages. This open the windows explorer in the Sublime preferences folder.
-  There search for the folder *USER*
+* From Sublime main menu, click on: Preferences > Browse Packages. This open the windows explorer in the Sublime preferences folder.
+  There, search for the folder **\User**
 
-* Unzip the package there, in *USER* folder
+* Unzip the package there, in **\User** folder
 
 * Copy the file **..\bin\harbour.sublime-package** (from the unziped package) to the folder **..\Sublime Text 3\Installed Packages**
 
@@ -47,7 +47,7 @@ Ellas son:
 * libreria hbWin
 * funciones de comunicacion serial hb_com*()
 
-Licencia GNU General Public License
+*Licencia GNU General Public License*
 
 En caso de encontrar problemas reportar en 
 https://github.com/asistex/Sublime-Text-harbour-Package/issues  **New Issue**
@@ -57,10 +57,10 @@ Si quieres contribuir, eres bienvenido.
 #### Descarga manual
 * Descarga el archivo usando la opcion de GitHub [.zip download option] **Sublime-Text-harbour-Package-master.zip**
 
-* Desde el menu principal de Sublime > Preferences > Browse Packages. Eso Abre el windows explorer en la carpeta de preferencias  de sublime.
-  Buscar la carpeta *USER*
+* Desde el menu principal de Sublime clickea en: Preferences > Browse Packages. Eso Abre el windows explorer en la carpeta de preferencias  de sublime.
+  Buscar la carpeta **\User**
 
-* Descomprimir el paquete descargado en la carpeta *USER*
+* Descomprimir el paquete descargado en la carpeta **\User**
 
 * Copiar el archivo **..\bin\harbour.sublime-package** (desde el paquete descomprimido) en la carpeta **..\Sublime Text 3\Installed Packages**
 
