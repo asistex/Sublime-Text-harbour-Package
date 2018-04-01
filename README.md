@@ -13,7 +13,7 @@ Thanks to **Pete Petewg** for the documentation of harbour functions.
 
 This project is based on https://github.com/rafathefull/harbour
 
-Thanks **rafathefull**
+Thanks **Rafael Carmona  rafathefull**
 
 If you encounter a bug, please create an issue here:
 
