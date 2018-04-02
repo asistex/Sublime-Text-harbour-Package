@@ -1,8 +1,7 @@
-# Sublime-Text-harbour-Package
-sublime text 3 package for harbour language. 
+# Sublime-Text-harbour-Package #
+Sublime text 3 package for harbour language.
 
-**harbour.sublime-files** has Harbour functions listed in
-https://github.com/Petewg/harbour-core/wiki
+This package has Harbour functions listed in https://github.com/Petewg/harbour-core/wiki with their sintax.
 
 They are:
 * Harbour specific core functions. from hb_A* to hb_Z*.
@@ -14,51 +13,54 @@ Thanks to **Pete Petewg** for the documentation of harbour functions.
 
 This project is based on https://github.com/rafathefull/harbour
 
-Thanks **rafathefull**
+Thanks **Rafael Carmona  rafathefull**
 
-If you encounter a bug, please [create an issue] here:
+If you encounter a bug, please create an issue here:
 
 https://github.com/asistex/Sublime-Text-harbour-Package/issues  **New Issue**
 
-License GNU General Public License
+*License GNU General Public License*
 
 Contributions to this package are welcome. 
 
 #### Download Manually
-* Download the files using the GitHub [.zip download option] **Sublime-Text-harbour-Package-master.zip
+* Download the files using the GitHub [.zip download option] **Sublime-Text-harbour-Package-master.zip**
 
-* Unzip it in **..\Documents and Settings\Xp\program files\Sublime Text 3\Packages\User**
+* From Sublime main menu, click on: Preferences > Browse Packages. This open the windows explorer in the Sublime preferences folder.
+  There, search for the folder **\User**
 
-* Copy the file **..\bin\harbour.sublime-package** to the folder **..\Documents and Settings\Xp\program files\Sublime Text 3\Installed Packages**
+* Unzip the package there, in **\User** folder
+
+* Copy the file **..\bin\harbour.sublime-package** (from the unziped package) to the folder **..\Sublime Text 3\Installed Packages**
 
 
 
-## Spanish
+## Español / Spanish
 
 Archivos para usar con el editor de codigo Sublime Text 3
 
-Estan cargadas funciones listadas en la pagina de PeteWg
-
-https://github.com/Petewg/harbour-core/wiki
+En ellos estan cargadas funciones listadas en la pagina de PeteWg https://github.com/Petewg/harbour-core/wiki con su sintaxis.
 
 Ellas son:
-* funciones hb_A* hasta hb_Z* 
+* funciones del nucleo de Harbour hb_A* hasta hb_Z* 
 * funciones clipper compatible desde A hasta Z
-* hbWin libreria
+* libreria hbWin
 * funciones de comunicacion serial hb_com*()
 
-Licencia GNU General Public License
+*Licencia GNU General Public License*
 
 En caso de encontrar problemas reportar en 
-
 https://github.com/asistex/Sublime-Text-harbour-Package/issues  **New Issue**
 
-Si quieres contribuir, eres bienvenido
+Si quieres contribuir, eres bienvenido.
 
 #### Descarga manual
 * Descarga el archivo usando la opcion de GitHub [.zip download option] **Sublime-Text-harbour-Package-master.zip**
 
-* Descomprime el archivo .zip en la carpeta **..\Documents and Settings\Xp\program files\Sublime Text 3\Packages\User**
+* Desde el menu principal de Sublime clickea en: Preferences > Browse Packages. Eso Abre el windows explorer en la carpeta de preferencias  de sublime.
+  Buscar la carpeta **\User**
 
-* Copia el archivo **..\bin\harbour.sublime-package** a la carpeta **..\Documents and Settings\Xp\program files\Sublime Text 3\Installed Packages**
+* Descomprimir el paquete descargado en la carpeta **\User**
+
+* Copiar el archivo **..\bin\harbour.sublime-package** (desde el paquete descomprimido) en la carpeta **..\Sublime Text 3\Installed Packages**
 
