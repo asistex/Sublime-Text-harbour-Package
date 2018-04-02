@@ -1,0 +1,49 @@
+<snippet>
+   <description>defwin</description>
+      <content>
+<![CDATA[${1:oWin}:window():new( , "${1:oWin}" ) 
+   ${1:oWin}:row                := ${2:10}
+   ${1:oWin}:col                := ${3:10}
+   ${1:oWin}:width              := ${4:600}
+   ${1:oWin}:height             := ${5:400}
+   ${1:oWin}:text               := "${6:text}"
+   ${1:oWin}:fontName           := "${7:Courier New}"
+   ${1:oWin}:fontSize           := ${8:12}
+   ${1:oWin}:backColor          := ${9:backColor}
+   ${1:oWin}:fontColor          := ${10:0}
+   ${1:oWin}:maxWidth           := ${11:maxWidth}
+   ${1:oWin}:maxHeight          := ${12:maxHeight}
+   ${1:oWin}:maximize           := .${13:T}.
+   ${1:oWin}:minimize           := .${14:T}.
+   ${1:oWin}:closeButton        := .${15:T}.
+   ${1:oWin}:notifyToolTip      := "${16:notifyToolTip}"
+   ${1:oWin}:notifyIcon         := "${17:notifyIcon}"
+   ${1:oWin}:help               := "${18:help}"
+   ${1:oWin}:sizeChange         := .${19:T}.
+   ${1:oWin}:navigationExtended := .${20:T}.
+   ${1:oWin}:minSize( ${21:400}, ${21:400} )
+   ${1:oWin}:maxSize( ${22:500}, ${22:500} )
+   ${1:oWin}:onDrop             := \{|| ${23:bOnDrop} \}
+   ${1:oWin}:onInit             := \{|| ${24:bOnInit} \}
+   ${1:oWin}:onRelease          := \{|| ${25:bOnRelease} \}
+   ${1:oWin}:onPaint            := \{|| ${26:onPaint} \}
+   ${1:oWin}:onSize             := \{|| ${27:onSize} \}
+   ${1:oWin}:onClick            := \{|| ${28:onClick} \}
+   ${1:oWin}:onRightClick       := \{|| ${29:onRightClick} \}
+   ${1:oWin}:onGotFocus         := \{|| ${30:onGotFocus} \}
+   ${1:oWin}:onLostFocus        := \{|| ${31:onLostFocus} \}
+   ${1:oWin}:onMaximize         := \{|| ${32:onMaximize} \}
+   ${1:oWin}:onMinimize         := \{|| ${33:onMinimize} \}
+   ${1:oWin}:onMouseDrag        := \{|| ${34:onMouseDrag} \}
+   ${1:oWin}:onMouseMove        := \{|| ${35:onMouseMove} \}
+   ${1:oWin}:onMove             := \{|| ${36:onMove} \}
+   ${1:oWin}:onNotifyDblClick   := \{|| ${37:onNotifyDblClick} \}
+   ${1:oWin}:onNotifyLeftClick  := \{|| ${38:onNotifyLeftClick} \}
+   ${1:oWin}:onNotifyRightClick := \{|| ${39:onNotifyRightClick} \}
+   ${1:oWin}:onRestore          := \{|| ${40:onRestore} \}
+   ${1:oWin}:onMiddleClick      := \{|| ${41:onMiddleClick} \}
+   ${1:oWin}:onSizeEnd          := \{|| ${42:onSizeEnd} \}
+]]></content>
+      <tabTrigger>window</tabTrigger>
+      <scope>source.harbour</scope>
+</snippet>
