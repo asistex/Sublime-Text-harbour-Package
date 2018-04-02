@@ -5,6 +5,7 @@ name: Harbour
 file_extensions:
   - prg
   - ppo
+  - hb
   - ch
   - c
   - h
