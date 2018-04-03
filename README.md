@@ -19,7 +19,7 @@ If you encounter a bug, please create an issue here:
 
 https://github.com/asistex/Sublime-Text-harbour-Package/issues  **New Issue**
 
-*License GNU General Public License*
+*License GNU General Public License v3.0*
 
 Contributions to this package are welcome. 
 
@@ -47,7 +47,7 @@ Ellas son:
 * libreria hbWin
 * funciones de comunicacion serial hb_com*()
 
-*Licencia GNU General Public License*
+*Licencia GNU General Public License v3.0*
 
 En caso de encontrar problemas reportar en 
 https://github.com/asistex/Sublime-Text-harbour-Package/issues  **New Issue**
