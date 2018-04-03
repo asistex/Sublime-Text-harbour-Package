@@ -1,0 +1,15 @@
+<snippet>
+	<description>if..elseif..endif</description>
+    <content><![CDATA[IF (${1:condicion})
+   ${2:// True }
+
+ELSEIF ${3:// True }
+   ${4:// False }
+
+ELSEIF ${5:// True }
+   ${6:// False }
+
+ENDIF]]></content>
+    <tabTrigger>ifelif</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>
