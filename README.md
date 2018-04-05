@@ -11,12 +11,11 @@ They are:
 
 Thanks to **Pete Petewg** for the documentation of harbour functions.
 
-This project is based on https://github.com/rafathefull/harbour
+This project is based on https://github.com/rafathefull/harbour Thanks **Rafael Carmona**
 
-Thanks **Rafael Carmona  rafathefull**
+This package was created / modified in an automatic way so could have things to fix.
 
 If you encounter a bug, please create an issue here:
-
 https://github.com/asistex/Sublime-Text-harbour-Package/issues  **New Issue**
 
 *License GNU General Public License v3.0*
@@ -49,7 +48,10 @@ Ellas son:
 
 *Licencia GNU General Public License v3.0*
 
-En caso de encontrar problemas reportar en 
+
+Este paquete fue generado / modificado en forma automatica por lo que puede tener cosas que reparar.
+
+En caso de encontrar problemas reportar en: 
 https://github.com/asistex/Sublime-Text-harbour-Package/issues  **New Issue**
 
 Si quieres contribuir, eres bienvenido.
