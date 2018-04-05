@@ -1,13 +1,13 @@
 <snippet>
 	<description>if..elseif..endif</description>
-    <content><![CDATA[IF (${1:condicion})
-   ${2:// True }
+    <content><![CDATA[IF ${1:condicion}
+   ${2://code }
 
-ELSEIF ${3:// True }
-   ${4:// False }
+ELSEIF ${3://condition }
+   ${4://code }
 
-ELSEIF ${5:// True }
-   ${6:// False }
+ELSEIF ${5://cndition }
+   ${6://code }
 
 ENDIF]]></content>
     <tabTrigger>ifelif</tabTrigger>
