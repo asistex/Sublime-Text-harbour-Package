@@ -201,7 +201,7 @@
       { "trigger": "hb_ascan",          "contents": "hb_Ascan( ${1:aArray}, ${2:uValue} /*[*/, ${3:nStart}, ${3:nCount}, ${4:lExact} /*]*/ )" },
       { "trigger": "hb_at",             "contents": "hb_At( ${1:cSearchFor}, ${2:cIntoString}, ${3:[nStart]}, ${4:[nEnd]}  )" },
       { "trigger": "hb_ati",            "contents": "hb_Ati( ${1:cSearch}, ${2:[nStart]}, ${3:[nEnd]} )" },
-      { "trigger": "hb_atokens",        "contents": "hb_aTokens( ${1:cString}, ${2:[cDelimiter>|lEOL]}, ${3:[lSkipStrings]}, ${4:[lDoubleQuoteOnly]} )" },
+      { "trigger": "hb_atokens",        "contents": "hb_aTokens( ${1:cString}, ${2:[cDelimiter | cEOL]}, ${3:[lSkipStrings]}, ${4:[lDoubleQuoteOnly]} )" },
 
       { "trigger": "hb_base64decode",   "contents": "hb_base64Decode( ${1:cBase64Encoded} )" },
       { "trigger": "hb_base64encode",   "contents": "hb_base64Encode( ${1:cData}, ${2:[nLineLength]} )" },
