@@ -1,7 +1,9 @@
 <snippet>
    <description>Function</description>
       <content>
-<![CDATA[FUNCTION ${1:name}(${2:param})
+<![CDATA[/*-----------------------------------*/
+
+FUNCTION ${1:name}(${2:param})
 
    LOCAL ${3:var}
 

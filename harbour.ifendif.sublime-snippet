@@ -1,7 +1,7 @@
 <snippet>
 	<description>if..endif</description>
     <content><![CDATA[IF ${1:condicion}
-   ${0:code}
+   ${2://code}
    
 ENDIF]]></content>
     <tabTrigger>if</tabTrigger>

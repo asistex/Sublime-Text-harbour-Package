@@ -1,10 +1,10 @@
 <snippet>
 	<description>if..else..endif</description>
     <content><![CDATA[IF ${1:condicion}
-   ${2:code}
+   ${2:// code}
 
 ELSE
-   ${3:code }
+   ${3:// code}
 
 ENDIF]]></content>
     <tabTrigger>ife</tabTrigger>

@@ -1,8 +1,8 @@
 <snippet>
 	<description>do while</description>
     <content>
-<![CDATA[DO WHILE ${1:/* condition */}
-   ${2:/* code */}
+<![CDATA[DO WHILE ${1:condition}
+   ${2:// code}
 ENDDO]]></content>
     <tabTrigger>dowhile</tabTrigger>
     <scope>source.harbour</scope>

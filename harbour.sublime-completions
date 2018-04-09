@@ -198,7 +198,7 @@
       { "trigger": "hb_argstring",      "contents": "hb_argString( ${1:cArg} )" },
       { "trigger": "hb_argv",           "contents": "hb_argv(${[1:nArg]} )" },
       { "trigger": "hb_arraytoparams",  "contents": "hb_ArrayToParams( ${1:aValue} )" },
-      { "trigger": "hb_ascan",          "contents": "hb_Ascan( ${1:aArray}, ${2:uValue} /*[*/, ${3:nStart}, ${3:nCount}, ${4:lExact} /*]*/ )" },
+      { "trigger": "hb_ascan",          "contents": "hb_Ascan( ${1:aArray}, ${2:uValue} /*[*/, ${3:nStart}, ${4:nCount}, ${5:lExact} /*]*/ )" },
       { "trigger": "hb_at",             "contents": "hb_At( ${1:cSearchFor}, ${2:cIntoString}, ${3:[nStart]}, ${4:[nEnd]}  )" },
       { "trigger": "hb_ati",            "contents": "hb_Ati( ${1:cSearch}, ${2:[nStart]}, ${3:[nEnd]} )" },
       { "trigger": "hb_atokens",        "contents": "hb_aTokens( ${1:cString}, ${2:[cDelimiter | cEOL]}, ${3:[lSkipStrings]}, ${4:[lDoubleQuoteOnly]} )" },

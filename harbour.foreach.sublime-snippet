@@ -2,24 +2,25 @@
         <description>for each</description>
     <content>
 <![CDATA[
-FOR EACH ${1:/* var1 */} ${2:[, /* var2 */]} IN ${3:/* expr1 */} ${4:[, /* var2 */]} [DESCEND]
+FOR EACH ${1:/* var1 */} IN ${2:/* expr1 */} ${3://[DESCEND]}
+
    // IF var1:__enumindex == nVal
    //    doSomething()
    // ENDIF
 
-   ${5:/* code */}
+   ${4://code}
 
-   [IF ${6:/* condition */}]
-       [EXIT]
-   [ENDIF]
+   IF ${5:condition}
+       EXIT
+   ENDIF
 
-   [IF ${7:/* condition */}]
-       [LOOP]
-   [ENDIF]
+   IF ${6:condition}
+       LOOP
+   ENDIF
 
-   ${8:/* code */}
+   ${7://code}
 
 NEXT ]]></content>
-    <tabTrigger>froeach</tabTrigger>
+    <tabTrigger>foreach</tabTrigger>
     <scope>source.harbour</scope>
 </snippet>

@@ -6,7 +6,7 @@ bak/*/
 *.zip
 *.7z
 git-1.hb
-log.log
+*.log
 
 # misc junk
 LICENSE
