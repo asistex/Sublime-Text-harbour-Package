@@ -1,5 +1,10 @@
-lista de todas las funciones de harbour
-obtenidas desde
+Harbour function list sorted by lib and name
+from:
+http://www.elektrosoft.it/tutorials/Harbour-Reference-Guide/harbour-complete-functions-list.htm
+
+
+lista de todas las funciones de harbour ordenadas por lib y nombre
+obtenidas desde:
 http://www.elektrosoft.it/tutorials/Harbour-Reference-Guide/harbour-complete-functions-list.htm
 
 
