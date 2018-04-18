@@ -1,9 +1,9 @@
 # Sublime-Text-harbour-Package
 Sublime Text and Harbour
 
-This package has Harbour functions with the syntax.
+This package has Harbour functions with their syntax.
 
-This package has Harbour functions listed in https://github.com/Petewg/harbour-core/wiki
+This package has Harbour functions listed in https://github.com/Petewg/harbour-core/wiki 
 
 They are:
 * Harbour specific core functions. from hb_A* to hb_Z*.
@@ -27,10 +27,9 @@ Contributions to this package are welcome.
 #### Download the package
 * Download the files using the GitHub [.zip download option] **Sublime-Text-Harbour-Package-master.zip**
 
-#### Manual instalation. 
+#### Instalacion manual
 
-* From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is **\Sublime Text 3\Packages\ **.
-* Close Sublime Text 3.
+* From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder.
 * Copy or move the downloaded file to **\Sublime Text 3\Packages\ **
 * Unzip the package there.  This will create a folder named **harbour**
 * Move (drag) the file **harbour.sublime-package** to the folder **.\Sublime Text 3\Installed Packages\ **
