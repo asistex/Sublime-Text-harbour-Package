@@ -1,0 +1,26 @@
+<snippet>
+        <description>for each</description>
+    <content>
+<![CDATA[
+FOR EACH ${1:/* var1 */} IN ${2:/* expr1 */} ${3://[DESCEND]}
+
+   // IF var1:__enumindex == nVal
+   //    doSomething()
+   // ENDIF
+
+   ${4://code}
+
+   IF ${5:condition}
+       EXIT
+   ENDIF
+
+   IF ${6:condition}
+       LOOP
+   ENDIF
+
+   ${7://code}
+
+NEXT ]]></content>
+    <tabTrigger>foreach</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>
