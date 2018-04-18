@@ -1,0 +1,12 @@
+Thank you for installing sublime-harbour
+
+
+Installation
+============
+
+
+
+Notes
+==============
+* Pull requests are welcome
+* Report issues here: https://github.com/asistex/Sublime-Text-harbour-Package/issues/
