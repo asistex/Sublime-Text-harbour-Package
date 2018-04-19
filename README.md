@@ -39,7 +39,8 @@ B- [Downloading the zip package](#downloading-the-zip-package)
    You must have installed Git tools.
 
    With this method you can get updates of this package using the Git command.
-   ** git pull ** from the command line.
+
+   **git pull** from the command line.
 
 * 1- Open Sublime Text
 * 2- From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is **\Sublime Text 3\Packages\**.
