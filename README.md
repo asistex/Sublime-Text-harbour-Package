@@ -25,9 +25,9 @@ https://github.com/asistex/Sublime-Text-Harbour-Package/issues  **New Issue**
 Contributions to this package are welcome.
 
 #### Download the package
-* Download the files using the GitHub [.zip download option] **Sublime-Text-Harbour-Package-master.zip**
+* Download the file using the GitHub [.zip download option] **Sublime-Text-Harbour-Package-master.zip**
 
-#### Manual instalation. 
+#### Installation. 
 
 * From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is **\Sublime Text 3\Packages\ **.
 * Close Sublime Text 3.
