@@ -34,6 +34,6 @@ Contributions to this package are welcome.
 * Copy or move the downloaded file to **\Sublime Text 3\Packages\ **
 * Unzip the package there.  This will create a folder named **harbour**
 * Move (drag) the file **harbour.sublime-package** to the folder **.\Sublime Text 3\Installed Packages\ **
-* Open Sublime, load a file .ino . Click on the right bottom corner of Sublime and 
+* Open Sublime, load a file .prg . Click on the right bottom corner of Sublime and 
   select from the list **harbour**
 
