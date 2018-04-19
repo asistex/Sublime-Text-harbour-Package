@@ -9,7 +9,7 @@ git-1.hb
 *.log
 
 # my files
-harbour/asistex.*
+harbour/asistex*.*
 
 # misc junk
 LICENSE

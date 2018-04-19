@@ -3,9 +3,9 @@ Sublime Text and Harbour
 
 This package has Harbour functions with the syntax.
 
-This package has Harbour functions listed in https://github.com/Petewg/harbour-core/wiki
+This package has some Harbour functions listed in https://github.com/Petewg/harbour-core/wiki
 
-They are:
+At this moment they are:
 * Harbour specific core functions. from hb_A* to hb_Z*.
 * Clipper compatible functions. from A to Z.
 * hbWin lib
@@ -24,6 +24,9 @@ https://github.com/asistex/Sublime-Text-Harbour-Package/issues  **New Issue**
 
 Contributions to this package are welcome.
 
+[![image](https://github.com/asistex/Sublime-Text-harbour-Package/blob/master/slb.jpg)](https://github.com/asistex/Sublime-Text-harbour-Package/)
+                 
+
 ## Installation
 
 A- [From the command line](#from-the-command-line)
@@ -33,21 +36,19 @@ B- [Downloading the zip package](#downloading-the-zip-package)
 
 
 ### From the command line
-   You must have installed Git tools
-   With this method you can get updates of this package usig the Git command
-   git pull from the command line.
+   You must have installed Git tools.
+
+   With this method you can get updates of this package using the Git command.
+   ** git pull ** from the command line.
 
 * 1- Open Sublime Text
-* 2- From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is **\Sublime Text 3\Packages\ **.
+* 2- From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is ** \Sublime Text 3\Packages\ **.
 * 3- Open the command prompt here. Windows cmd
 * 4- Copy the following command:
      git clone https://github.com/asistex/Sublime-Text-harbour-Package.git
 * 5- Press Enter
 * 6- Thats all.
-* 7- Optionally you can copy the file **harbour.sublime-package** to the folder **.\Sublime Text 3\Installed Packages\ **
-
-
-
+* 7- Optionally you can copy the file **harbour.sublime-package** to the folder ** .\Sublime Text 3\Installed Packages\ **
 
 
 
@@ -64,4 +65,3 @@ B- [Downloading the zip package](#downloading-the-zip-package)
 * Move (drag) the file **harbour.sublime-package** to the folder **.\Sublime Text 3\Installed Packages\ **
 * Open Sublime, load a file .prg . Click on the right bottom corner of Sublime and 
   select from the list **harbour**
-
