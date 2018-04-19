@@ -26,23 +26,29 @@ Contributions to this package are welcome.
 
 ## Installation
 
-1- [From the command line and git clone](#fromcommandline)
-2- [Downloading the zip package](#downloadingpackage)
+1- [From the command line](#From-the-command-line)
+2- [Downloading the zip package](#Downloading-the-zip-package)
 
 
 
-# From the command line and git clone
-    You must have installed Git tools
-    With this method you can get updates of this package usig the Git command
-    git pull from the command line.
+### From the command line and git clone
+   You must have installed Git tools
+   With this method you can get updates of this package usig the Git command
+   git pull from the command line.
 
 1- Open Sublime Text
+
 2- From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is **\Sublime Text 3\Packages\ **.
+
 3- Open the command prompt here. Windows cmd
+
 4- Copy the following command:
      git clone https://github.com/asistex/Sublime-Text-harbour-Package.git
+
 5- Press Enter
+
 6- Thats all.
+
 7- Optionally you can copy the file **harbour.sublime-package** to the folder **.\Sublime Text 3\Installed Packages\ **
 
 
@@ -50,7 +56,9 @@ Contributions to this package are welcome.
 
 
 
-# Downloading the zip package
+
+
+### Downloading the zip package
 
 #### Download the package
 * Download the file using the GitHub [.zip download option] **Sublime-Text-Harbour-Package-master.zip**
