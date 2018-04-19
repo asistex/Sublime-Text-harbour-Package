@@ -8,5 +8,8 @@ bak/*/
 git-1.hb
 *.log
 
+# my files
+harbour/asistex.*
+
 # misc junk
 LICENSE
