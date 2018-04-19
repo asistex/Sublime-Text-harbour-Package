@@ -20,7 +20,7 @@ This package was created / modified in an automatic way so could have things to 
 If you encounter a bug, please create an issue here:
 https://github.com/asistex/Sublime-Text-Harbour-Package/issues  **New Issue**
 
-*License GNU General Public License v3.0*
+***License MIT***
 
 Contributions to this package are welcome.
 
