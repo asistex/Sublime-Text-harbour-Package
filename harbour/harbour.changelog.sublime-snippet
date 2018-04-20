@@ -1,0 +1,13 @@
+<snippet>
+	<description>changelog</description>
+    <content><![CDATA[#if defined( changelog )
+#  indent + 2		
+#  format =  * Changed, ! Fix, % Optimized, + Added up, - Removal of, ; Comment
+
+* ${1:changed}
+    ${2:info}
+
+#endif // if defined( changelog )]]></content>
+    <tabTrigger>changelog</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

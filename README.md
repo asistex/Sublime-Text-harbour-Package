@@ -13,9 +13,7 @@ At this moment they are:
 
 Thanks to **Pete Petewg** for the documentation of harbour functions.
 
-This project is based on https://github.com/rafathefull/harbour Thanks **Rafael Carmona**
-
-This package was created / modified in an automatic way so could have things to fix.
+This project is based on https://github.com/rafathefull/harbour of **Rafael Carmona**
 
 If you encounter a bug, please create an issue here:
 https://github.com/asistex/Sublime-Text-Harbour-Package/issues  **New Issue**
@@ -38,9 +36,7 @@ B- [Downloading the zip package](#downloading-the-zip-package)
 ### From the command line
    You must have installed Git tools.
 
-   With this method you can get updates of this package using the Git command.
-
-   **git pull** from the command line.
+   With this method you can get updates of this package using the Git command: **git pull** from the command line.
 
 * 1- Open Sublime Text
 * 2- From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is **\Sublime Text 3\Packages\**.
@@ -62,5 +58,7 @@ B- [Downloading the zip package](#downloading-the-zip-package)
 * Copy or move the downloaded file to **\Sublime Text 3\Packages\ **
 * Unzip the package there.  This will create a folder named **harbour**
 * Move (drag) the file **harbour.sublime-package** to the folder **.\Sublime Text 3\Installed Packages\ **
-* Open Sublime, load a file .prg . Click on the right bottom corner of Sublime and 
-  select from the list **harbour**
+
+
+
+### Open Sublime, load a file .prg . Click on the right bottom corner of Sublime and select **harbour** from the list.
