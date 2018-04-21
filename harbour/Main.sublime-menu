@@ -16,24 +16,8 @@
                         "children":
                         [
                             {
-                                "caption": "docs-wiki",
-                                "command": "open_url",
-                                "args": {"url": "https://github.com/Petewg/harbour-core/wiki"}
-                            },
-                            {
-                                "caption": "github",
-                                "command": "open_url",
-                                "args": {"url": "https://github.com/harbour"}
-                            },
-                            { "caption": "-" },
-                            {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/Sublime-Text-harbour-Package/harbour/messages/harbour-notes.md"},
-                                "caption": "my notes of harbour"
-                            },
-                            {
-                                "command": "open_file",
-                                "args": {"file": "${packages}/Sublime-Text-harbour-Package/harbour/harbour.sublime-settings"},
+                                "args": {"file": "${packages}/User/harbour.sublime-settings"},
                                 "caption": "User settings"
                             },
                             {
@@ -46,6 +30,31 @@
                 ]
             }
         ]
+    },
+    {
+        "caption": "Harbour",
+        "mnemonic": "r",
+        "id": "harbour",
+        "children":
+        [
+           {
+               "command": "open_file",
+               "args": {"file": "${packages}/Sublime-Text-harbour-Package/harbour/messages/harbour-notes.md"},
+               "caption": "my notes of harbour"
+           },
+           {
+               "caption": "docs-wiki Petewg",
+               "command": "open_url",
+               "args": {"url": "https://github.com/Petewg/harbour-core/wiki"}
+           },
+           {
+               "caption": "harbour in github",
+               "command": "open_url",
+               "args": {"url": "https://github.com/harbour"}
+           },
+           { "caption": "-" }
+       ]
     }
 ]
+
 

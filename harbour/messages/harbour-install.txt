@@ -1,9 +1,9 @@
-Thank you for installing sublime-harbour
+Thank you for installing sublime harbour package
 
 
 Installation
 ============
-
+read the file readme.md
 
 
 Notes
