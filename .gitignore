@@ -5,7 +5,7 @@
 bak/*/
 *.zip
 *.7z
-git-1.hb
+*.hb
 *.log
 
 # my files
