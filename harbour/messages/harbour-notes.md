@@ -1,9 +1,4 @@
-## my notes about harbour
-==========================
+## my notes
+============
 
-this file is called from : Sublime *main menu > harbour > my notes of harbour*
-
-The menu file is **Sublime-Text-harbour-Package/harbour/Main.sublime-menu**.
-Is in the harbour package folder.
-Edit the file as you want.  
-
+Edit this file as you want.

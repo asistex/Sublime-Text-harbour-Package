@@ -38,9 +38,9 @@
         "children":
         [
            {
+               "caption": "my notes",
                "command": "open_file",
-               "args": {"file": "${packages}/Sublime-Text-harbour-Package/harbour/messages/harbour-notes.md"},
-               "caption": "my notes of harbour"
+               "args": {"file": "${packages}/Sublime-Text-harbour-Package/harbour/messages/harbour-notes.md"}
            },
            {
                "caption": "docs-wiki Petewg",
@@ -48,11 +48,16 @@
                "args": {"url": "https://github.com/Petewg/harbour-core/wiki"}
            },
            {
-               "caption": "harbour in github",
+               "caption": "harbour at github",
                "command": "open_url",
                "args": {"url": "https://github.com/harbour"}
            },
-           { "caption": "-" }
+           { "caption": "-" },
+           {
+               "caption": "Edit this menu",
+               "command": "open_file",
+               "args": {"file": "${packages}/Sublime-Text-harbour-Package/harbour/Main.sublime-menu"}
+           }
        ]
     }
 ]
