@@ -66,7 +66,7 @@ With this method you can get updates of this package using the Git command: **gi
 * 9- Open Sublime, load a file .prg . Click the label on the statusbar at the right corner and select **harbour** from the list. If the statusbar is hidden then goto **Main menu > View > Syntax**
 
 
-[![image](https://github.com/asistex/Sublime-Text-harbour-Package/blob/master/sublime.gif)](https://github.com/asistex/Sublime-Text-harbour-Package/)
+[![image](https://github.com/asistex/ighoo/blob/master/bin/sublime.gif)](https://github.com/asistex/Sublime-Text-harbour-Package/)
 
 
 **https://github.com/asistex**
