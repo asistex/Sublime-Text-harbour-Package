@@ -10,6 +10,7 @@ At this moment they are:
 * Clipper compatible functions. from A to Z.
 * hbWin lib
 * Serial communication port API functions hb_com*()
+* hb_Socket functions
 
 Thanks to **Pete Petewg** for the documentation of harbour functions.
 

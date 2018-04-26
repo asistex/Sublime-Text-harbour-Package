@@ -1,0 +1,77 @@
+{
+   "scope": "source.harbour - variable.socket.harbour",
+   "completions":
+   [
+      "Harbour",
+/* A */
+/* B */
+/* C */
+/* D */
+/* E */
+/* F */
+/* G */
+/* H */
+      { "trigger": "hb_socketaccept",               "contents": "hb_socketAccept( ${1:hSocket}, ${2:[@aAddr]}, ${3:[nTimeout = FOREVER]} )" },
+      { "trigger": "hb_socketautoflush",            "contents": "hb_socketAutoFlush( ${1:hSocket}, ${2:[nNewSetting]} )" },
+      { "trigger": "hb_socketautoshutdown",         "contents": "hb_socketAutoShutdown( ${1:hSocket}, ${2:[lNewSetting]} )" },
+      { "trigger": "hb_socketbind",                 "contents": "hb_socketBind( ${1:hSocket}, ${2:aAddr} )" },
+      { "trigger": "hb_socketclose",                "contents": "hb_socketClose( ${1:hSocket} )" },
+      { "trigger": "hb_socketconnect",              "contents": "hb_socketConnect( ${1:hSocket}, ${2:aAddr}, ${3:[nTimeout = FOREVER]} )" },
+      { "trigger": "hb_socketerrorstring",          "contents": "hb_socketErrorString( ${1:[nSocketErrror = hb_socketGetError(} )" },
+      { "trigger": "hb_socketflush",                "contents": "hb_socketFlush( ${1:hSocket}, ${2:[nTimeout = FOREVER]}, ${3:[lSync]} )" },
+      { "trigger": "hb_socketgeterror",             "contents": "hb_socketGetError()" },
+      { "trigger": "hb_socketgetfd",                "contents": "hb_socketGetFD( ${1:hSocket} )" },
+      { "trigger": "hb_socketgetfilter",            "contents": "hb_socketGetFilter( ${1:hSocket} )" },
+      { "trigger": "hb_socketgethostname",          "contents": "hb_socketGetHostName( ${1:aAddr} )" },
+      { "trigger": "hb_socketgethosts",             "contents": "hb_socketGetHosts( ${1:cAddr}, ${2:[nFamily = HB_SOCKET_AF_INET]} )" },
+      { "trigger": "hb_socketgetifaces",            "contents": "hb_socketGetIFaces( ${1:[nFamily]}, ${2:[lNoAliases]} )" },
+      { "trigger": "hb_socketgetoserror",           "contents": "hb_socketGetOSError()" },
+      { "trigger": "hb_socketgetpeername",          "contents": "hb_socketGetPeerName( ${1:hSocket} )" },
+      { "trigger": "hb_socketgetrcvbufsize",        "contents": "hb_socketGetRcvBufSize( ${1:hSocket}, ${2:@nValue} )" },
+      { "trigger": "hb_socketgetsndbufsize",        "contents": "hb_socketGetSndBufSize( ${1:hSocket}, ${2:@nValue} )" },
+      { "trigger": "hb_socketgetsockname",          "contents": "hb_socketGetSockName( ${1:hSocket} )" },
+      { "trigger": "hb_socketlisten",               "contents": "hb_socketListen( ${1:hSocket}, ${2:[iQueueLen = 10]} )" },
+      { "trigger": "hb_socketopen",                 "contents": "hb_socketOpen( ${1:[nDomain = HB_SOCKET_AF_INET]}, ${2:[nType = HB_SOCKET_PT_STREAM]}, ${3:[nProtocol = 0]} )" },
+      { "trigger": "hb_socketread",                 "contents": "hb_socketRead( ${1:hSocket}, ${2:@cBuffer}, ${3:[nLen = Len( cBuffer} )" },
+      { "trigger": "hb_socketrecv",                 "contents": "hb_socketRecv( ${1:hSocket}, ${2:@cBuffer}, ${3:[nLen = Len( cBuffer} )" },
+      { "trigger": "hb_socketrecvfrom",             "contents": "hb_socketRecvFrom( ${1:hSocket}, ${2:@cBuffer}, ${3:[nLen = Len( cBuffer} )" },
+      { "trigger": "hb_socketresolveaddr",          "contents": "hb_socketResolveAddr( ${1:cAddr}, ${2:[nFamily = HB_SOCKET_AF_INET]} )" },
+      { "trigger": "hb_socketresolveinetaddr",      "contents": "hb_socketResolveINetAddr( ${1:cAddr}, ${2:nPort} )" },
+      { "trigger": "hb_socketselect",               "contents": "hb_socketSelect( ${1:aRead}, ${2:lSetRead}, ${3:aWrite}, ${4:lSetWrite}, ${5:aExcep}, ${6:lSetExcep}, ${7:[nTimeout = FOREVER]} )" },
+      { "trigger": "hb_socketselectread",           "contents": "hb_socketSelectRead( ${1:hSocket}, ${2:[nTimeout = FOREVER]} )" },
+      { "trigger": "hb_socketselectwrite",          "contents": "hb_socketSelectWrite( ${1:hSocket}, ${2:[nTimeout = FOREVER]} )" },
+      { "trigger": "hb_socketselectwriteex",        "contents": "hb_socketSelectWriteEx( ${1:hSocket}, ${2:[nTimeout = FOREVER]} )" },
+      { "trigger": "hb_socketsend",                 "contents": "hb_socketSend( ${1:hSocket}, ${2:cBuffer}, ${3:[nLen = Len( cBuffer} )" },
+      { "trigger": "hb_socketsendto",               "contents": "hb_socketSendTo( ${1:hSocket}, ${2:cBuffer}, ${3:[nLen = Len( cBuffer} )" },
+      { "trigger": "hb_socketsetblockingio",        "contents": "hb_socketSetBlockingIO( ${1:hSocket}, ${2:lValue} )" },
+      { "trigger": "hb_socketsetbroadcast",         "contents": "hb_socketSetBroadcast( ${1:hSocket}, ${2:lValue} )" },
+      { "trigger": "hb_socketsetexclusiveaddr",     "contents": "hb_socketSetExclusiveAddr( ${1:hSocket}, ${2:lValue} )" },
+      { "trigger": "hb_socketsetfilter",            "contents": "hb_socketSetFilter( ${1:hSocket}, ${2:cFilterName}, ${3:[hSockParams]} )" },
+      { "trigger": "hb_socketsetkeepalive",         "contents": "hb_socketSetKeepAlive( ${1:hSocket}, ${2:lValue} )" },
+      { "trigger": "hb_socketsetmulticast",         "contents": "hb_socketSetMulticast( ${1:hSocket}, ${2:[nFamily = HB_SOCKET_AF_INET]}, ${3:cAddr} )" },
+      { "trigger": "hb_socketsetnodelay",           "contents": "hb_socketSetNoDelay( ${1:hSocket}, ${2:lValue} )" },
+      { "trigger": "hb_socketsetrcvbufsize",        "contents": "hb_socketSetRcvBufSize( ${1:hSocket}, ${2:nValue} )" },
+      { "trigger": "hb_socketsetreuseaddr",         "contents": "hb_socketSetReuseAddr( ${1:hSocket}, ${2:lValue} )" },
+      { "trigger": "hb_socketsetsndbufsize",        "contents": "hb_socketSetSndBufSize( ${1:hSocket}, ${2:nValue} )" },
+      { "trigger": "hb_socketshutdown",             "contents": "hb_socketShutdown( ${1:hSocket}, ${2:[nMode = HB_SOCKET_SHUT_RDWR]} )" },
+      { "trigger": "hb_socketwrite",                "contents": "hb_socketWrite( ${1:hSocket}, ${2:cBuffer}, ${3:[nLen = Len( cBuffer} )" },
+/* I */
+/* J */
+/* K */
+/* L */
+/* M */
+/* N */
+/* O */
+/* P */
+/* Q */
+/* R */
+/* S */
+/* T */
+/* U */
+/* V */
+/* W */
+/* X */
+/* Y */
+/* Z */
+   ]
+}

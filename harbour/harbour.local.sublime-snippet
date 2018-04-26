@@ -1,0 +1,9 @@
+<snippet>
+        <description>local</description>
+    <content>
+<![CDATA[
+LOCAL ${1:var} 
+]]></content>
+    <tabTrigger>local</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

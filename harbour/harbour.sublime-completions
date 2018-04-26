@@ -30,7 +30,7 @@
       { "trigger": "asin",              "contents": "Asin( ${1:nRadians} )" },
       { "trigger": "asize",             "contents": "Asize( ${1:aArray}, ${2:nLen} )" },
       { "trigger": "asizealloc",        "contents": "asizealloc( ${1:aArray}, ${2:nCount} )" },
-      { "trigger": "asort",             "contents": "Asort( ${1:aArray}, ${2:[nStart]}, ${3:[nCount]}, \\{|${4:[x},${5:y}| ${4:x} < ${5:y]}\\} )" },
+      { "trigger": "asort",             "contents": "Asort( ${1:aArray}, ${2:[nStart]}, ${3:[nCount]}, '\\{|${4:x},${5:y}| ${4:x} < ${5:y}\\}' )" },
       { "trigger": "at",                "contents": "At( ${1:cSearch}, ${2:cIntoString} )" },
       { "trigger": "atail",             "contents": "Atail( ${1:aArray} )" },
       { "trigger": "atan",              "contents": "Atan( ${1:nRadians} )" },
@@ -529,8 +529,8 @@
       { "trigger": "hb_tton",           "contents": "hb_TtoN( ${1:dDate>|<tTimeStamp} )" },
       { "trigger": "hb_ttos",           "contents": "hb_TtoS( ${1:dDate>|<tTimeStamp} )" },
       { "trigger": "hb_ttohour",        "contents": "hb_TtoHour( ${1:tTimeStamp} )" },
-      { "trigger": "hb_ttomin ",        "contents": "hb_TtoMin( ${1:tTimeStamp} )" },
-      { "trigger": "hb_ttosec ",        "contents": "hb_TtoSec( ${1:tTimeStamp} )" },
+      { "trigger": "hb_ttomin",         "contents": "hb_TtoMin( ${1:tTimeStamp} )" },
+      { "trigger": "hb_ttosec",         "contents": "hb_TtoSec( ${1:tTimeStamp} )" },
       { "trigger": "hb_ttomsec",        "contents": "hb_TtoMSec( ${1:tTimeStamp} )" },
 
 
@@ -805,8 +805,10 @@
 /* Z */
 
 /* ... */
-      { "trigger": ".not.",             "contents": ".Not." },
-      { "trigger": ".and.",             "contents": ".And." },
-      { "trigger": ".or.",              "contents": ".Or." },
+      { "trigger": "not",               "contents": ".Not. " },
+      { "trigger": "and",               "contents": ".And. " },
+      { "trigger": "or",                "contents": ".Or. " },
+      { "trigger": "t",                 "contents": ".T. " },
+      { "trigger": "f",                 "contents": ".F. " },
    ]
 }
