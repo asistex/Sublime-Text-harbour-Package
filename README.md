@@ -11,17 +11,19 @@ At this moment they are:
 * hbWin lib
 * Serial communication port API functions hb_com*()
 * hb_Socket functions
+* hb_ zip functions
+* hb_regex functions
 
 Thanks to **Pete Petewg** for the documentation of harbour functions.
 
 This project is based on https://github.com/rafathefull/harbour of **Rafael Carmona**
 
-If you encounter a bug, please create an issue here:
+If you want to add more functions or snippets and/or if you encounter a bug, please create an issue here:
 https://github.com/asistex/Sublime-Text-Harbour-Package/issues  **New Issue**
 
-***License MIT***
-
 Contributions to this package are welcome.
+
+***License MIT***
 
 [![image](https://github.com/asistex/Sublime-Text-harbour-Package/blob/master/slb.jpg)](https://github.com/asistex/Sublime-Text-harbour-Package/)
                  

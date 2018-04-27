@@ -1,6 +1,6 @@
 <snippet>
-	<description>#include "..."</description>
+	<description>#include "xfile.ch"</description>
     <content><![CDATA[#include "${1:${TM_FILENAME/\..+$/.ch/}}"]]></content>
-    <tabTrigger>inc</tabTrigger>
+    <tabTrigger>include</tabTrigger>
     <scope>source.harbour</scope>
 </snippet>

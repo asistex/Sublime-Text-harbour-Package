@@ -1,0 +1,11 @@
+<snippet>
+	<description>#pragma Beg-EndDump "..."</description>
+    <content><![CDATA[#pragma BEGINDUMP
+
+${1://code}
+
+#pragma ENDDUMP
+    	]]></content>
+    <tabTrigger>pragdump</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

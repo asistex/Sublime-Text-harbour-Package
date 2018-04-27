@@ -1,0 +1,84 @@
+{
+   "scope": "source.harbour - variable.zip.harbour",
+   "completions":
+   [
+      "Harbour",
+/* A */
+/* B */
+/* C */
+/* D */
+/* E */
+/* F */
+/* G */
+/* H */
+      { "trigger": "hb_gzclearerr",                 "contents": "hb_gzClearErr( ${1:<pGZipStream>} )" },
+      { "trigger": "hb_gzclose",                    "contents": "hb_gzClose( ${1:<pGZipStream>} )" },
+      { "trigger": "hb_gzcompress",                 "contents": "hb_gzCompress( ${1:<cData>}, ${2:[<nDstBufLen>|<@cBuffer>]}, ${3:[<@nResult>]}, ${4:[<nLevel>]} )" },
+      { "trigger": "hb_gzcompressbound",            "contents": "hb_gzCompressBound( ${1:<cData>|<nDataLen>} )" },
+      { "trigger": "hb_gzdirect",                   "contents": "hb_gzDirect( ${1:pGZipStream} )" },
+      { "trigger": "hb_gzdopen",                    "contents": "hb_gzDOpen( ${1:<hFile>}, ${2:<cMode>} )" },
+      { "trigger": "hb_gzeof",                      "contents": "hb_gzEof( ${1:<pGZipStream>} )" },
+      { "trigger": "hb_gzerror",                    "contents": "hb_gzError( ${1:<pGZipStream>}, ${2:[<@nError>]} )" },
+      { "trigger": "hb_gzflush",                    "contents": "hb_gzFlush( ${1:<pGZipStream>}, ${2:[<nFlush>]} )" },
+      { "trigger": "hb_gzgetc",                     "contents": "hb_gzGetC( ${1:<pGZipStream>} )" },
+      { "trigger": "hb_gzgets",                     "contents": "hb_gzGetS( ${1:<pGZipStream>}, ${2:<nMaxBytes>} )" },
+      { "trigger": "hb_gzopen",                     "contents": "hb_gzOpen( ${1:<cFile>}, ${2:<cMode>} )" },
+      { "trigger": "hb_gzputc",                     "contents": "hb_gzPutC( ${1:<pGZipStream>}, ${2:<nByte>} )" },
+      { "trigger": "hb_gzputs",                     "contents": "hb_gzPutS( ${1:<pGZipStream>}, ${2:<cData>} )" },
+      { "trigger": "hb_gzread",                     "contents": "hb_gzRead( ${1:<pGZipStream>}, ${2:<@cData>}, ${3:[<nLen>]} )" },
+      { "trigger": "hb_gzrewind",                   "contents": "hb_gzRewind( ${1:<pGZipStream>} )" },
+      { "trigger": "hb_gzseek",                     "contents": "hb_gzSeek( ${1:<pGZipStream>}, ${2:<nOffset>}, ${3:[<nWhence>]} )" },
+      { "trigger": "hb_gzsetparams",                "contents": "hb_gzSetParams( ${1:<pGZipStream>}, ${2:<nLevel>}, ${3:<nStrategy>} )" },
+      { "trigger": "hb_gztell",                     "contents": "hb_gzTell( ${1:<pGZipStream>} )" },
+      { "trigger": "hb_gzungetc",                   "contents": "hb_gzUnGetC( ${1:<nByte>}, ${2:<pGZipStream>} )" },
+      { "trigger": "hb_gzwrite",                    "contents": "hb_gzWrite( ${1:<pGZipStream>}, ${2:<cData>}, ${3:[<nLen>]} )" },
+      { "trigger": "hb_unzipclose",                 "contents": "hb_unzipClose( ${1:hUnzip} )" },
+      { "trigger": "hb_unziperrorstr",              "contents": "hb_unzipErrorStr( ${1:<nError>} )" },
+      { "trigger": "hb_unzipextractcurrentfile",    "contents": "hb_unzipExtractCurrentFile( ${1:hUnzip}, ${2:[ cFileName ]}, ${3:[ cPassword ]} )" },
+      { "trigger": "hb_unzipextractcurrentfiletohandle","contents": "hb_unzipExtractCurrentFileToHandle( ${1:hZip}, ${2:fhnd}, ${3:[ cPassword ]} )" },
+      { "trigger": "hb_unzipfileclose",             "contents": "hb_unzipFileClose( ${1:hUnzip} )" },
+      { "trigger": "hb_unzipfilefirst",             "contents": "hb_unzipFileFirst( ${1:hUnzip} )" },
+      { "trigger": "hb_unzipfilegoto",              "contents": "hb_unzipFileGoto( ${1:hUnzip}, ${2:nPosition} )" },
+      { "trigger": "hb_unzipfileinfo",              "contents": "hb_unzipFileInfo( ${1:hUnzip}, ${2:@cZipName}, ${3:@tDateTime}, ${4:@cTime}, ${5:@nInternalAttr}, ${6:@nExternalAttr}, ${7:@nMethod}, ${8:@nSize}, ${9:@nCompressedSize}, ${10:@lCrypted}, ${11:@cComment} )" },
+      { "trigger": "hb_unzipfilenext",              "contents": "hb_unzipFileNext( ${1:hUnzip} )" },
+      { "trigger": "hb_unzipfileopen",              "contents": "hb_unzipFileOpen( ${1:hUnzip}, ${2:[ cPassword ]} )" },
+      { "trigger": "hb_unzipfilepos",               "contents": "hb_unzipFilePos( ${1:hUnzip} )" },
+      { "trigger": "hb_unzipfileread",              "contents": "hb_unzipFileRead( ${1:hUnzip}, ${2:@cBuf [}, ${3:nLen ]} )" },
+      { "trigger": "hb_unzipglobalinfo",            "contents": "hb_unzipGlobalInfo( ${1:hUnzip}, ${2:@nEntries}, ${3:@cGlobalComment} )" },
+      { "trigger": "hb_unzipopen",                  "contents": "hb_unzipOpen( ${1:cFileName} )" },
+      { "trigger": "hb_zcompress",                  "contents": "hb_ZCompress( ${1:<cData>}, ${2:[<nDstBufLen>|<@cBuffer>]}, ${3:[<@nResult>]}, ${4:[<nLevel>]} )" },
+      { "trigger": "hb_zcompressbound",             "contents": "hb_ZCompressBound( ${1:<cData>|<nDataLen>} )" },
+      { "trigger": "hb_zerror",                     "contents": "hb_ZError( ${1:<nError>} )" },
+      { "trigger": "hb_zipclose",                   "contents": "hb_zipClose( ${1:<hZip> [}, ${2:cGlobalComment ]} )" },
+      { "trigger": "hb_zipdeletefile",              "contents": "hb_zipDeleteFile( ${1:<cZipFile>}, ${2:<cFileMask>} )" },
+      { "trigger": "hb_ziperrorstr",                "contents": "hb_zipErrorStr( ${1:<nError>} )" },
+      { "trigger": "hb_zipfileclose",               "contents": "hb_zipFileClose()" },
+      { "trigger": "hb_zipfilecrc32",               "contents": "hb_zipFileCRC32( ${1:<cFileName>} )" },
+      { "trigger": "hb_zipfilecreate",              "contents": "hb_zipFileCreate( ${1:<hZip>}, ${2:<cFileName> [}, ${3:dDate] [}, ${4:cTime] [}, ${5:nInternalAttr}, ${6:nExternalAttr] [}, ${7:nMethod ] [}, ${8:nLevel ] [}, ${9:cPassword}, ${10:ulFileCRC32] [}, ${11:cComment]} )" },
+      { "trigger": "hb_zipfilewrite",               "contents": "hb_zipFileWrite( ${1:<hZip>}, ${2:<cData> [}, ${3:<nLen>]} )" },
+      { "trigger": "hb_zipopen",                    "contents": "hb_zipOpen( ${1:<cArchive>}, ${2:[ nMode ]}, ${3:[ @cGlobalComment ]} )" },
+      { "trigger": "hb_zipstorefile",               "contents": "hb_zipStoreFile( ${1:<hZip>}, ${2:<cFileName>}, ${3:[ cZipedName ]}, ${4:[ cPassword}, ${5:cComment ]} )" },
+      { "trigger": "hb_zipstorefilehandle",         "contents": "hb_zipStoreFileHandle( ${1:<hZip>}, ${2:<hFhandle>}, ${3:<cZipedName> [}, ${4:cPassword}, ${5:cComment]} )" },
+      { "trigger": "hb_zlibversion",                "contents": "hb_ZLibVersion( ${1:[<nType>]} )" },
+      { "trigger": "hb_zuncompress",                "contents": "hb_ZUncompress( ${1:<cCompressedData>}, ${2:[<nDstBufLen>|<@cBuffer>]}, ${3:[<@nResult>]} )" },
+      { "trigger": "hb_zuncompresslen",             "contents": "hb_ZUncompressLen( ${1:<cCompressedData>}, ${2:[<@nResult>]} )" },
+/* I */
+/* J */
+/* K */
+/* L */
+/* M */
+/* N */
+/* O */
+/* P */
+/* Q */
+/* R */
+/* S */
+/* T */
+/* U */
+/* V */
+/* W */
+/* X */
+/* Y */
+/* Z */
+   ]
+}

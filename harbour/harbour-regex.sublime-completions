@@ -1,0 +1,42 @@
+{
+   "scope": "source.harbour - variable.regex.harbour",
+   "completions":
+   [
+      "Harbour",
+/* A */
+/* B */
+/* C */
+/* D */
+/* E */
+/* F */
+/* G */
+/* H */
+      { "trigger": "hb_regexcomp",                  "contents": "hb_RegExComp( ${1:<cRegExPattern> [}, ${2:<lCaseSensitive>}, ${3:<lMultiLine>]} )" },
+      { "trigger": "hb_isregex",                    "contents": "hb_IsRegEx( ${1:<uExp>} )" },
+      { "trigger": "hb_regex",                      "contents": "hb_RegEx( ${1:<hRegEx>|<cRegEx>}, ${2:<cText> [}, ${3:<lCaseSensitive>}, ${4:<lMultiLine> ]} )" },
+      { "trigger": "hb_regexall",                   "contents": "hb_RegExAll( ${1:<hRegEx>|<cRegEx>}, ${2:<cText> [}, ${3:<lCaseSensitive>}, ${4:<lMultiline>}, ${5:<nMaxMatches>}, ${6:<nGetMatch>}, ${7:<lOnlyMatch>]} )" },
+      { "trigger": "hb_regexlike",                  "contents": "hb_RegExLike( ${1:<hRegEx>|<cRegEx>}, ${2:<cText> [}, ${3:<lCaseSensitive>] [}, ${4:<lMultiLine>]} )" },
+      { "trigger": "hb_regexhas",                   "contents": "hb_RegExHas( ${1:<hRegEx>|<cRegEx>}, ${2:<cText> [}, ${3:<lCaseSensitive>] [}, ${4:<lMultiLine>]} )" },
+      { "trigger": "hb_regexsplit",                 "contents": "hb_RegExSplit( ${1:<hRegEx>|<cRegEx>}, ${2:<cText> [}, ${3:<lCaseSensitive>] [}, ${4:<lMultiLine>] [}, ${5:<nMaxMatches>]} )" },
+      { "trigger": "hb_regexatx",                   "contents": "hb_RegExAtX( ${1:<hRegEx>|<cRegEx>}, ${2:<cText> [}, ${3:<lCaseSensitive>] [}, ${4:<lMultiLine>]} )" },
+      { "trigger": "hb_atx",                        "contents": "hb_AtX( ${1:<cRegEx>}, ${2:<cString>}, ${3:[<lCaseSensitive>]}, ${4:[@<nStart>]}, ${5:[@<nLen>]} )" },
+/* I */
+/* J */
+/* K */
+/* L */
+/* M */
+/* N */
+/* O */
+/* P */
+/* Q */
+/* R */
+/* S */
+/* T */
+/* U */
+/* V */
+/* W */
+/* X */
+/* Y */
+/* Z */
+   ]
+}
