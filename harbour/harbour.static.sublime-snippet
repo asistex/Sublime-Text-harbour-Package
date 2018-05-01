@@ -1,0 +1,8 @@
+<snippet>
+   <description>Static</description>
+    <content>
+<![CDATA[Static ${1:ident} := ${2:expr}
+]]></content>
+    <tabTrigger>static</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

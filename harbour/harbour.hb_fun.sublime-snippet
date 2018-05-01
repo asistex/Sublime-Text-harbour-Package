@@ -1,0 +1,11 @@
+<snippet>
+   <description>HB_FUNC</description>
+      <content>
+<![CDATA[HB_FUNC( ${1:FUNCNAME} )
+{
+   ${2:code}
+}]]></content>
+      <tabTrigger>hb_func</tabTrigger>
+      <scope>source.harbour</scope>
+</snippet>
+
