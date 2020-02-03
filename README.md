@@ -28,11 +28,11 @@ Contributions to this package are welcome.
 [![image](https://github.com/asistex/Sublime-Text-harbour-Package/blob/master/slb.jpg)](https://github.com/asistex/Sublime-Text-harbour-Package/)
                  
 
-## Installation
+## Installation. (2 options)
 
-A- [From the command line](#from-the-command-line)
+A- [Install downloading the zip package](#downloading-the-zip-package)
 
-B- [Downloading the zip package](#downloading-the-zip-package)
+B- [install from the command line with git tools](#from-the-command-line)
 
 
 
