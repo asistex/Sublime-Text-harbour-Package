@@ -36,6 +36,21 @@ B- [Downloading the zip package](#downloading-the-zip-package)
 
 
 
+### Downloading the zip package
+
+* 1- Download the zip file using the green GitHub button `Clone or download` select [download zip option] 
+     You will get the file **Sublime-Text-harbour-Package-master.zip** on your PC.
+* 2- Open Sublime Text
+* 3- From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is `.\Sublime Text 3\Packages\` .
+* 4- Close Sublime Text 3.
+* 5- Copy, move or drag the downloaded file `Sublime-Text-harbour-Package-master.zip` to `.\Sublime Text 3\Packages\`
+* 6- Unzip the package there. This will create a folder named **Sublime-Text-harbour-Package-master**
+* 7- Rename it to **Sublime-Text-harbour-Package**
+* 8- While Sublime is not running delete the session file  **.\Sublime Text 3\Local\Session.sublime_session** and if exist also delete **.\Sublime Text 3\Local\Auto Save Session.sublime_session**
+* 9- Open Sublime, load a file .prg . Click the label on the statusbar at the right corner and select **harbour** from the list. If the statusbar is hidden then goto **Main menu > View > Syntax**
+
+
+
 ### From the command line
 
 If you are a git user, you can install it and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
@@ -56,18 +71,6 @@ With this method you can get updates of this package using the Git command: **gi
 
 
 
-### Downloading the zip package
-
-* 1- Download the file using the GitHub button`Clone or download` select [download zip option] 
-     You will get the file **Sublime-Text-harbour-Package-master.zip** on your PC.
-* 2- Open Sublime Text
-* 3- From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is `.\Sublime Text 3\Packages\` .
-* 4- Close Sublime Text 3.
-* 5- Copy, moveor drag it the downloaded file `Sublime-Text-harbour-Package-master.zip` to `.\Sublime Text 3\Packages\`
-* 6- Unzip the package there.  This will create a folder named **Sublime-Text-harbour-Package-master**
-* 7- Rename it to **Sublime-Text-harbour-Package**
-* 8- While Sublime is not running delete the session file  **.\Sublime Text 3\Local\Session.sublime_session** and if exist also delete **.\Sublime Text 3\Local\Auto Save Session.sublime_session**
-* 9- Open Sublime, load a file .prg . Click the label on the statusbar at the right corner and select **harbour** from the list. If the statusbar is hidden then goto **Main menu > View > Syntax**
 
 
 
