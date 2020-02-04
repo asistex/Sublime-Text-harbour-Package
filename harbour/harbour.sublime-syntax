@@ -33,7 +33,7 @@ contexts:
     - match: '("[^"]*")'
       comment: cadenas comillas dobles
       scope: string.quoted.double.harbour
-    - match: (?i)\b(?:always|begin|do|case|endcase|otherwise|switch|sequence|if|else|elseif|endif|while|end|enddo|exit|static function|function|return|for|next|include|ifdef|stdout|ifndef|recover|skip|go|top|using|endswitch)\b
+    - match: (?i)\b(?:always|begin|do|case|endcase|otherwise|switch|sequence|if|else|elseif|endif|while|end|enddo|exit|static function|function|return|for|next|include|ifdef|stdout|ifndef|recover|skip|go|top|bottom|using|endswitch)\b
       comment: sentencias de control
       scope: keyword.control.harbour
     - match: (?i)\b(?:catch|finally|try|throw)\b
