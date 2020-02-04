@@ -1,0 +1,6 @@
+<snippet>
+	<description>GO BOTTOM command</description>
+    <content><![CDATA[GO BOTTOM]]></content>
+    <tabTrigger>gobottom</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>
