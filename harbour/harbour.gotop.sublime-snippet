@@ -1,0 +1,6 @@
+<snippet>
+	<description>GO TOP command</description>
+    <content><![CDATA[GO TOP]]></content>
+    <tabTrigger>gotop</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>
