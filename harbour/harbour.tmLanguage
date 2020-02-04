@@ -67,7 +67,7 @@
 			<key>comment</key>
 			<string>sentencias de control</string>
 			<key>match</key>
-			<string>(?i)\b(?:always|begin|do|case|endcase|otherwise|switch|sequence|if|else|elseif|endif|while|end|enddo|exit|static function|function|return|for|next|include|ifdef|stdout|ifndef|recover|skip|go|top|using|endswitch)\b</string>
+			<string>(?i)\b(?:always|begin|do|case|endcase|otherwise|switch|sequence|if|else|elseif|endif|while|end|enddo|exit|static function|function|return|for|next|include|ifdef|stdout|ifndef|recover|skip|go|top|bottom|using|endswitch)\b</string>
 			<key>name</key>
 			<string>keyword.control.harbour</string>
 		</dict>
