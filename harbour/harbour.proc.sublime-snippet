@@ -3,13 +3,14 @@
       <content>
 <![CDATA[/*-----------------------------------*/
 
-PROCEDURE ${1:name}(${2:param})
+PROCEDURE ${1:name}( ${2:param} )
 
    LOCAL ${3:var}
 
    ${4://body}
 
    RETURN 
+
 ]]></content>
       <tabTrigger>proce</tabTrigger>
       <scope>source.harbour</scope>

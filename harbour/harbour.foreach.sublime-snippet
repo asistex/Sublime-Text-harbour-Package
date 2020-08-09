@@ -1,5 +1,5 @@
 <snippet>
-        <description>for each</description>
+    <description>for each</description>
     <content>
 <![CDATA[
 FOR EACH ${1:/* var1 */} IN ${2:/* expr1 */} ${3://[DESCEND]}
