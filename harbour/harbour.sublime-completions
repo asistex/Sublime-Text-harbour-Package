@@ -13,7 +13,7 @@
       { "trigger": "adel",              "contents": "Adel( ${1:aArray}, ${2:nPos} )" },
       { "trigger": "adir",              "contents": "Adir( ${1:cFileSpecMask}, ${2:aFilenames}, ${3:aSizes}, ${4:aDates}, ${5:aTimes}, ${6:aAttr} )" },
       { "trigger": "addmonth",          "contents": "AddMonth( ${1:[dDate]}, ${2:nMonths} )" }, 
-      { "trigger": "aeval",             "contents": "Aeval( ${1:aArray}, ${2:bBlock}, ${4:[nStart]}, ${5:[nCount]} )" },
+      { "trigger": "aeval",             "contents": "Aeval( ${1:aArray}, ${2:bBlock}, ${3:[nStart]}, ${4:[nCount]} )" },
       { "trigger": "afields",           "contents": "Afields( ${1:aFieldsnames}, ${2:[aTypes]}, ${3:[aWidths]}, ${4:[aDecimals]}, ${5:[aFlags]} )" },
       { "trigger": "afill",             "contents": "Afill( ${1:aArray}, ${2:xValue}, ${3:[nStart]}, ${4:[nCount]} )" },
       { "trigger": "ains",              "contents": "Ains( ${1:aArray}, ${2:nPos} )" },
