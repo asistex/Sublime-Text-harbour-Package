@@ -34,7 +34,7 @@ contexts:
     - match: '("[^"]*")'
       comment: cadenas comillas dobles
       scope: string.quoted.double.harbour
-    - match: (?i)\b(?:always|begin|sequence|do|case|endcase|otherwise|switch|if|else|elseif|endif|while|end|enddo|exit|return|for|next|include|ifdef|stdout|ifndef|recover|define|defined)\b
+    - match: (?i)\b(?:always|begin|sequence|do|case|endcase|otherwise|switch|endswitch|if|else|elseif|endif|while|end|enddo|exit|return|for|next|include|ifdef|stdout|ifndef|recover|define|defined)\b
       comment: sentencias de control
       scope: keyword.control.harbour
     - match: (?i)\b(?:catch|finally|try|throw)\b
