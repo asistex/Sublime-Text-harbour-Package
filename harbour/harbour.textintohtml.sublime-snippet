@@ -1,0 +1,17 @@
+<snippet>
+        <description>text into html</description>
+    <content>
+<![CDATA[
+TEXT INTO ${1:cHtml}
+   <html>
+      <head>
+         ${2:<script src=""></script>}
+      </head>
+      <body>
+         ${3:cHtmlCode}
+      </body>
+   </html>
+ENDTEXT ]]></content>
+    <tabTrigger>textintohtml</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

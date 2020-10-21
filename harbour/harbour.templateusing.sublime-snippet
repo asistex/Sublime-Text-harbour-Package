@@ -1,0 +1,21 @@
+<snippet>
+        <description>templateusing</description>
+    <content>
+<![CDATA[
+TEMPLATE USING ${1:cHtml} PARAMS ${2:params}
+   <!DOCTYPE html>
+   <html lang="en">
+      <head>
+         <meta charset="UTF-8">
+         <title>${3:cTitle}</title>
+         <script src="${4:cScript}"></script>
+      </head>
+      <body>
+         ${5:cBodyCode}
+   
+      </body>
+   </html>
+ENDTEXT ]]></content>
+    <tabTrigger>templateusing</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

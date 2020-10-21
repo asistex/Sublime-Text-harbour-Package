@@ -1,0 +1,14 @@
+<snippet>
+        <description>text into script</description>
+    <content>
+<![CDATA[
+TEXT INTO ${1:cScript}
+   <script>
+      function ${2:funcName}() {
+         ${3:// code}
+         }    
+   </script>
+ENDTEXT ]]></content>
+    <tabTrigger>textintoscript</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

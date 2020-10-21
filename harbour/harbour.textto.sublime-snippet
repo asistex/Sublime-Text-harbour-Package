@@ -1,0 +1,10 @@
+<snippet>
+        <description>textto</description>
+    <content>
+<![CDATA[
+TEXT TO ${1:cCode}
+   ${2:cScript}
+ENDTEXT ]]></content>
+    <tabTrigger>textto</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

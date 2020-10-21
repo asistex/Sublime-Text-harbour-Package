@@ -1,0 +1,15 @@
+<snippet>
+        <description>try catch</description>
+    <content>
+<![CDATA[
+TRY
+   ${1:// code}
+
+CATCH ${2: oErr }
+   ${3:// recoverCode}
+
+FINALLY ]]></content>
+    <tabTrigger>trycatch</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>
+    

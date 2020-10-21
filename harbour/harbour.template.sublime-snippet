@@ -1,0 +1,21 @@
+<snippet>
+        <description>template</description>
+    <content>
+<![CDATA[
+TEMPLATE
+   <!DOCTYPE html>
+   <html lang="en">
+      <head>
+         <meta charset="UTF-8">
+         <title>${1:cTitle}</title>
+         <script src="${2:cScript}"></script>
+      </head>
+      <body>
+         ${3:cBodyCode}
+   
+      </body>
+   </html>
+ENDTEXT ]]></content>
+    <tabTrigger>template</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>
