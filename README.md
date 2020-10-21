@@ -1,5 +1,7 @@
 # Sublime-Text-harbour-Package
-Sublime Text and Harbour
+Sublime Text and Harbour.
+
+Package Last Update = 2020/10/21
 
 This package has Harbour functions with the syntax.
 
@@ -13,6 +15,7 @@ At this moment they are:
 * hb_Socket functions
 * hb_ zip functions
 * hb_regex functions
+* mod_harbour functions
 
 Thanks to **Pete Petewg** for the documentation of harbour functions.
 
@@ -26,7 +29,7 @@ Contributions to this package are welcome.
 ***License MIT***
 
 [![image](https://github.com/asistex/Sublime-Text-harbour-Package/blob/master/slb.jpg)](https://github.com/asistex/Sublime-Text-harbour-Package/)
-                 
+
 
 ## Installation. (2 options)
 
@@ -38,7 +41,7 @@ B- [install from the command line with git tools](#from-the-command-line)
 
 ### Downloading the zip package
 
-* 1- Download the zip file using the green GitHub button `Clone or download` select [download zip option] 
+* 1- Download the zip file using the green GitHub button `Clone or download` select [download zip option]
      You will get the file **Sublime-Text-harbour-Package-master.zip** on your PC.
 * 2- Open Sublime Text
 * 3- From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is `.\Sublime Text 3\Packages\` .
@@ -60,8 +63,8 @@ With this method you can get updates of this package using the Git command: **gi
 * 1- Open Sublime Text
 * 2- From Sublime main menu, click on: Preferences > Browse Packages. This will open the windows explorer in the Sublime preferences folder, usually is \Sublime Text 3\Packages\
 * 3- Close Sublime Text 3.
-* 4- Open the command prompt here.  `c:\....\Sublime Text 3\Packages>` 
-* 5- Copy the following command:  
+* 4- Open the command prompt here.  `c:\....\Sublime Text 3\Packages>`
+* 5- Copy the following command:
 ```
      git clone https://github.com/asistex/Sublime-Text-harbour-Package.git
 ```
@@ -78,5 +81,5 @@ With this method you can get updates of this package using the Git command: **gi
 
 
 **https://github.com/asistex**
-   
+
 ***`Carlos.  Asistex`***
