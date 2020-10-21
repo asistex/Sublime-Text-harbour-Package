@@ -17,6 +17,19 @@ At this moment they are:
 * hb_regex functions
 * mod_harbour functions
 * coding Mod_Harbour you can trigger small HTM snippets. Typing mh + nameSnippet
+  - mhmetaname
+  - mhtitle
+  - mhdiv
+  - mhvar
+  - mhprgfunc
+  - mhscriptsrc
+  - mhfunc
+  - mhcoment
+  - mhh1 to mhh5
+  - mhlinkrel
+  - mhli
+  - mholli2 to mholli5
+
 
 Thanks to **Pete Petewg** for the documentation of harbour functions.
 
