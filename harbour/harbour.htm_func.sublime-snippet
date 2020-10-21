@@ -1,0 +1,12 @@
+<snippet>
+        <description>htm function</description>
+    <content>
+<![CDATA[
+function ${1:cFunName}()
+{
+   ${2:cCode}
+}
+]]></content>
+    <tabTrigger>mhfunc</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

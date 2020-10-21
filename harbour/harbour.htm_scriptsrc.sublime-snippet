@@ -1,0 +1,7 @@
+<snippet>
+    <description>script src</description>
+    <content>
+<![CDATA[<script src="https://${1:cURL.com}/"></script>]]></content>
+    <tabTrigger>mhscriptsrc</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

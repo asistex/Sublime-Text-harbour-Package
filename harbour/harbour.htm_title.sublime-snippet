@@ -1,0 +1,7 @@
+<snippet>
+    <description>htm title</description>
+    <content>
+<![CDATA[<title>${1:cTitle}</title>]]></content>
+    <tabTrigger>mhtitle</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

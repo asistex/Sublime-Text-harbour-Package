@@ -1,0 +1,11 @@
+<snippet>
+        <description>htm prg function</description>
+    <content>
+<![CDATA[
+<?prg
+   local ${1:cVarName}
+?>
+]]></content>
+    <tabTrigger>mhprgfunc</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

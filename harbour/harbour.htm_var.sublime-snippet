@@ -1,0 +1,7 @@
+<snippet>
+   <description>htm var</description>
+    <content>
+<![CDATA[var ${1:cNameVar} = ${2:new};]]></content>
+    <tabTrigger>mhvar</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

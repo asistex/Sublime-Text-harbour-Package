@@ -1,0 +1,6 @@
+<snippet>
+	<description>htm h1</description>
+    <content><![CDATA[<h1>${1:cHeader}</h1>]]></content>
+    <tabTrigger>mhh1</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

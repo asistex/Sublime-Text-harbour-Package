@@ -1,0 +1,7 @@
+<snippet>
+        <description>meta name</description>
+    <content>
+<![CDATA[<meta name="${1:description}" content="${2:}">]]></content>
+    <tabTrigger>mhmetaname</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

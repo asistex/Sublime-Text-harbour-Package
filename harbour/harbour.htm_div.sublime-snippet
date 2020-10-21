@@ -1,0 +1,12 @@
+<snippet>
+        <description>htm div</description>
+    <content>
+<![CDATA[
+<div class="${1:cDiv}">
+   ${2:cHtmCode}
+</div>
+$0
+]]></content>
+    <tabTrigger>mhdiv</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>

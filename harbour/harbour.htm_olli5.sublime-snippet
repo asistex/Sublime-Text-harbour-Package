@@ -1,0 +1,15 @@
+<snippet>
+        <description>htm ol li 5</description>
+    <content>
+<![CDATA[
+<ol>
+   <li>${1:cLI}</li>
+   <li>${2:cLI}</li>
+   <li>${3:cLI}</li>
+   <li>${4:cLI}</li>
+   <li>${5:cLI}</li>
+</ol>
+]]></content>
+    <tabTrigger>mholli5</tabTrigger>
+    <scope>source.harbour</scope>
+</snippet>
