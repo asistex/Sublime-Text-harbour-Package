@@ -16,6 +16,7 @@ At this moment they are:
 * hb_ zip functions
 * hb_regex functions
 * mod_harbour functions
+* coding Mod_Harbour you can trigger small HTM snippets. Typing mh + nameSnippet
 
 Thanks to **Pete Petewg** for the documentation of harbour functions.
 
