@@ -1,7 +1,7 @@
 # Sublime-Text-harbour-Package
 Sublime Text and Harbour.
 
-Package Last Update = 2020/10/21
+Package Last Update = 2020/10/23
 
 This package has Harbour functions with the syntax.
 
@@ -15,6 +15,7 @@ At this moment they are:
 * hb_Socket functions
 * hb_ zip functions
 * hb_regex functions
+* Curl functions. (not all, need help with params)
 * mod_harbour functions
 * coding Mod_Harbour you can trigger small HTM snippets. Typing mh + nameSnippet
   - mhmetaname
@@ -29,6 +30,7 @@ At this moment they are:
   - mhlinkrel
   - mhli
   - mholli2 to mholli5
+
 
 
 Thanks to **Pete Petewg** for the documentation of harbour functions.
