@@ -1,7 +1,7 @@
 # Sublime-Text-harbour-Package
 Sublime Text and Harbour.
 
-Package Last Update = 2020/10/23
+Package Last Update = 2020/10/30
 
 This package has Harbour functions with the syntax.
 
@@ -17,21 +17,14 @@ At this moment they are:
 * hb_regex functions
 * Curl functions. (not all, need help with params)
 * mod_harbour functions
-* coding Mod_Harbour you can trigger small HTM snippets. Typing mh + nameSnippet
-  - mhmetaname
-  - mhtitle
-  - mhdiv
-  - mhvar
-  - mhprgfunc
-  - mhscriptsrc
-  - mhfunc
-  - mhcoment
-  - mhh1 to mhh5
-  - mhlinkrel
-  - mhli
-  - mholli2 to mholli5
+* Added keys to toggle between harbour syntax and html syntax  **`NEW`**
+
+  You can use **`EMMET`** in a harbour code.
+
+  Read about how to do it in the file **emmet.md**
 
 
+---
 
 Thanks to **Pete Petewg** for the documentation of harbour functions.
 
