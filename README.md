@@ -1,7 +1,7 @@
 # Sublime-Text-harbour-Package
 Sublime Text and Harbour.
 
-Package Last Update = 2020/10/30
+### Package Last Update = 2020/10/30
 
 This package has Harbour functions with the syntax.
 
@@ -17,7 +17,7 @@ At this moment they are:
 * hb_regex functions
 * Curl functions. (not all, need help with params)
 * mod_harbour functions
-* Added keys to toggle between harbour syntax and html syntax  **`NEW`**
+* Added keys to toggle between harbour syntax and html syntax.  **`NEW`**
 
   You can use **`EMMET`** in a harbour code.
 

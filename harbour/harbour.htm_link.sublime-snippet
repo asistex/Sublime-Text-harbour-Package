@@ -1,7 +1,0 @@
-<snippet>
-   <description>link rel</description>
-    <content>
-<![CDATA[<link rel="stylesheet" href="https://${1:cURL.com}/">]]></content>
-    <tabTrigger>mhlinkrel</tabTrigger>
-    <scope>source.harbour</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<description>htm LI</description>
-    <content><![CDATA[<li>${1:cLI}</li>]]></content>
-    <tabTrigger>mhli</tabTrigger>
-    <scope>source.harbour</scope>
-</snippet>
