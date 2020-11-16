@@ -24,6 +24,11 @@
                                 "command": "open_file",
                                 "args": {"file": "${packages}/Sublime-Text-harbour-Package/harbour/messages/harbour-install.txt"},
                                 "caption": "Install message"
+                            },
+                            {
+                                "command": "open_file",
+                                "args": {"file": "${packages}/user/Default (Windows).sublime-keymap"},
+                                "caption": "Key Binding - User"
                             }
                         ]
                     }
@@ -38,9 +43,9 @@
         "children":
         [
            {
-               "caption": "my notes",
+               "caption": "notes",
                "command": "open_file",
-               "args": {"file": "${packages}/Sublime-Text-harbour-Package/harbour/messages/harbour-notes.md"}
+               "args": {"file": "${packages}/Sublime-Text-harbour-Package/harbour/messages/harbour-install.txt"},
            },
            {
                "caption": "docs-wiki Petewg",
@@ -52,6 +57,11 @@
                "command": "open_url",
                "args": {"url": "https://github.com/harbour"}
            },
+           {
+               "caption": "ST3 harbour package at github",
+               "command": "open_url",
+               "args": {"url": "https://github.com/asistex/Sublime-Text-harbour-Package"}
+           },
            { "caption": "-" },
            {
                "caption": "Edit this menu",
@@ -61,5 +71,3 @@
        ]
     }
 ]
-
-

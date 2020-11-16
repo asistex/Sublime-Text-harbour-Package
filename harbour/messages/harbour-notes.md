@@ -1,14 +1,12 @@
-## my notes
+## notes
 ============
-
-Edit this file as you want.
 
 Custom Key Bindings
 
 Main Menu -> Preference -> Key Binding
 
 Add these command lines between [ and ] like is showed below or if you already have
-defined commands add a comma at the end andpaste these commands
+defined commands add a comma at the end and paste these commands
 
 [
   // This command enable Emmet in harbour
