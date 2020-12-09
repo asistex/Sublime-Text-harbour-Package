@@ -1,0 +1,3078 @@
+{
+  "scope": "source.harbour - variable.emoji.harbour",
+  "completions":
+  [
+     "harbour",
+  {
+   "contents": "0x1f4fa", "trigger": "emotelevision\t📺"
+  },
+  {
+   "contents": "0x23f8",   "trigger": "emopause-button\t⏸"
+  },
+  {
+   "contents": "0x1f31f",   "trigger": "emoglowing-star\t🌟"
+  },
+  {
+   "contents": "0x1f55d",   "trigger": "emotwo-thirty\t🕝"
+  },
+  {
+   "contents": "0x1f451",   "trigger": "emocrown\t👑"
+  },
+  {
+   "contents": "0x1f32b",   "trigger": "emofog\t🌫"
+  },
+  {
+   "contents": "0x1f40a",   "trigger": "emocrocodile\t🐊"
+  },
+  {
+   "contents": "0x1f342",   "trigger": "emofallen-leaf\t🍂"
+  },
+  {
+   "contents": "0x1f198",   "trigger": "emosquared-sos\t🆘"
+  },
+  {
+   "contents": "0x1f61e",   "trigger": "emoface-disappointed\t😞"
+  },
+  {
+   "contents": "0x2197",   "trigger": "emoup-right-arrow\t↗"
+  },
+  {
+   "contents": "0x1f49f",   "trigger": "emoheart-decoration\t💟"
+  },
+  {
+   "contents": "0x1f3d4",   "trigger": "emosnow-capped-mountain\t🏔"
+  },
+  {
+   "contents": "0x1f352",   "trigger": "emocherries\t🍒"
+  },
+  {
+   "contents": "0x269c",   "trigger": "emofleur-de-lis\t⚜"
+  },
+  {
+   "contents": "0x2600",   "trigger": "emosun\t☀"
+  },
+  {
+   "contents": "0x1f690",   "trigger": "emominibus\t🚐"
+  },
+  {
+   "contents": "0x1f3cd",   "trigger": "emomotorcycle\t🏍"
+  },
+  {
+   "contents": "0x1f234",   "trigger": "emosquared-together-ideograph\t🈴"
+  },
+  {
+   "contents": "0x1f42e",   "trigger": "emocow-face\t🐮"
+  },
+  {
+   "contents": "0x1f6e9",   "trigger": "emosmall-airplane\t🛩"
+  },
+  {
+   "contents": "0x203c",   "trigger": "emodouble-exclamation-mark\t‼"
+  },
+  {
+   "contents": "0x1f52a",   "trigger": "emokitchen-knife\t🔪"
+  },
+  {
+   "contents": "0x1f3d6",   "trigger": "emobeach-with-umbrella\t🏖"
+  },
+  {
+   "contents": "0x1f34e",   "trigger": "emored-apple\t🍎"
+  },
+  {
+   "contents": "0x1f325",   "trigger": "emosun-behind-large-cloud\t🌥"
+  },
+  {
+   "contents": "0x1f6c5",   "trigger": "emoleft-luggage\t🛅"
+  },
+  {
+   "contents": "0x1f4d0",   "trigger": "emotriangular-ruler\t📐"
+  },
+  {
+   "contents": "0x2618",   "trigger": "emoshamrock\t☘"
+  },
+  {
+   "contents": "0x1f691",   "trigger": "emoambulance\t🚑"
+  },
+  {   "contents": "0x1f680",   "trigger": "emorocket\t🚀"
+  },
+  {
+   "contents": "0x1f4ac",   "trigger": "emospeech-balloon\t💬"
+  },
+  {
+   "contents": "0x1f6cd",   "trigger": "emoshopping-bags\t🛍"
+  },
+  {
+   "contents": "0x1f525",   "trigger": "emofire\t🔥"
+  },
+  {
+   "contents": "0x1f319",   "trigger": "emocrescent-moon\t🌙"
+  },
+  {
+   "contents": "0x1f49d",   "trigger": "emoheart-with-ribbon\t💝"
+  },
+  {
+   "contents": "0x1f18e",   "trigger": "emoab-button\t🆎"
+  },
+  {
+   "contents": "0x1f44b",   "trigger": "emowaving-hand\t👋"
+  },
+  {
+   "contents": "0x1f450",   "trigger": "emoopen-hands\t👐"
+  },
+  {
+   "contents": "0x1f45d",   "trigger": "emopouch\t👝"
+  },
+  {
+   "contents": "0x1f698",   "trigger": "emooncoming-automobile\t🚘"
+  },
+  {
+   "contents": "0x1f69d",   "trigger": "emomonorail\t🚝"
+  },
+  {
+   "contents": "0x1f411",   "trigger": "emosheep\t🐑"
+  },
+  {
+   "contents": "0x1f60e",   "trigger": "emoface-smiling-with-sunglasses\t😎"
+  },
+  {
+   "contents": "0x270f",   "trigger": "emopencil\t✏"
+  },
+  {
+   "contents": "0x1f626",   "trigger": "emoface-frowning-with-open-mouth\t😦"
+  },
+  {   "contents": "0x1f63b",   "trigger": "emoface-smiling-cat-with-heart-shaped-eyes\t😻"
+  },
+  {
+   "contents": "0x1f4dc",   "trigger": "emoscroll\t📜"
+  },
+  {
+   "contents": "0x1f35a",   "trigger": "emocooked-rice\t🍚"
+  },
+  {
+   "contents": "0x1f33e",   "trigger": "emosheaf-of-rice\t🌾"
+  },
+  {
+   "contents": "0x1f913",   "trigger": "emoface-nerd\t🤓"
+  },
+  {
+   "contents": "0x1f51b",   "trigger": "emoon-arrow\t🔛"
+  },
+  {
+   "contents": "0x1f413",   "trigger": "emorooster\t🐓"
+  },
+  {
+   "contents": "0x1f6e2",   "trigger": "emooil-drum\t🛢"
+  },
+  {
+   "contents": "0x1f63d",   "trigger": "emocat-kissing-face-with-closed-eyes\t😽"
+  },
+  {
+   "contents": "0x1f47b",   "trigger": "emoghost\t👻"
+  },
+  {
+   "contents": "0x1f507",   "trigger": "emospeaker-off\t🔇"
+  },
+  {
+   "contents": "0x1f353",   "trigger": "emostrawberry\t🍓"
+  },
+  {
+   "contents": "0x1f3a0",   "trigger": "emocarousel-horse\t🎠"
+  },
+  {
+   "contents": "0x1f31c",   "trigger": "emoface-last-quarter-moon-with\t🌜"
+  },
+  {
+   "contents": "0x1f538",   "trigger": "emosmall-orange-diamond\t🔸"
+  },
+  {
+   "contents": "0x1f64a",   "trigger": "emospeak-no-evil\t🙊"
+  },
+  {
+   "contents": "0x2764",   "trigger": "emored-heart\t❤"
+  },
+  {
+   "contents": "0x1f6b2",   "trigger": "emobicycle\t🚲"
+  },
+  {
+   "contents": "0x1f637",   "trigger": "emoface-with-medical-mask\t😷"
+  },
+  {
+   "contents": "0x1f48e",   "trigger": "emogem-stone\t💎"
+  },
+  {
+   "contents": "0x1f4f2",   "trigger": "emomobile-phone-with-arrow\t📲"
+  },
+  {
+   "contents": "0x1f501",   "trigger": "emorepeat-button\t🔁"
+  },
+  {
+   "contents": "0x1f51d",   "trigger": "emotop-arrow\t🔝"
+  },
+  {
+   "contents": "0x1f365",   "trigger": "emofish-cake-with-swirl\t🍥"
+  },
+  {
+   "contents": "0x1f513",   "trigger": "emoopen-lock\t🔓"
+  },
+  {
+   "contents": "0x1f514",   "trigger": "emobell\t🔔"
+  },
+  {
+   "contents": "0x1f38c",   "trigger": "emocrossed-flags\t🎌"
+  },
+  {
+   "contents": "0xae",   "trigger": "emoregistered\t®"
+  },
+  {
+   "contents": "0x1f4fd",   "trigger": "emofilm-projector\t📽"
+  },
+  {
+   "contents": "0x1f494",   "trigger": "emobroken-heart\t💔"
+  },
+  {
+   "contents": "0x1f914",   "trigger": "emoface-thinking\t🤔"
+  },
+  {
+   "contents": "0x1f346",   "trigger": "emoeggplant\t🍆"
+  },
+  {
+   "contents": "0x1f981",   "trigger": "emolion-face\t🦁"
+  },
+  {
+   "contents": "0x1f522",   "trigger": "emoinput-numbers\t🔢"
+  },
+  {
+   "contents": "0x1f443",   "trigger": "emonose\t👃"
+  },
+  {
+   "contents": "0x1f4b1",   "trigger": "emocurrency-exchange\t💱"
+  },
+  {
+   "contents": "0x1f55c",   "trigger": "emoone-thirty\t🕜"
+  },
+  {
+   "contents": "0x1f406",   "trigger": "emoleopard\t🐆"
+  },
+  {
+   "contents": "0x1f5bc",   "trigger": "emoframe-with-picture\t🖼"
+  },
+  {
+   "contents": "0x2626",   "trigger": "emoorthodox-cross\t☦"
+  },
+  {
+   "contents": "0x1f52d",   "trigger": "emotelescope\t🔭"
+  },
+  {
+   "contents": "0x2194",   "trigger": "emoleft-right-arrow\t↔"
+  },
+  {
+   "contents": "0x1f23a",   "trigger": "emosquared-operating-ideograph\t🈺"
+  },
+  {
+   "contents": "0x1f339",   "trigger": "emorose\t🌹"
+  },
+  {
+   "contents": "0x1f396",   "trigger": "emomilitary-medal\t🎖"
+  },
+  {
+   "contents": "0x1f609",   "trigger": "emoface-winking\t😉"
+  },
+  {
+   "contents": "0x1f5fb",   "trigger": "emomount-fuji\t🗻"
+  },
+  {
+   "contents": "0x1f49a",   "trigger": "emogreen-heart\t💚"
+  },
+  {
+   "contents": "0x1f6e5",   "trigger": "emomotor-boat\t🛥"
+  },
+  {
+   "contents": "0x1f63e",   "trigger": "emocat-face-pouting\t😾"
+  },
+  {
+   "contents": "0x1f3e0",   "trigger": "emohouse-building\t🏠"
+  },
+  {
+   "contents": "0x1f4ad",   "trigger": "emothought-balloon\t💭"
+  },
+  {
+   "contents": "0x1f911",   "trigger": "emoface-money-mouth\t🤑"
+  },
+  {
+   "contents": "0x1f452",   "trigger": "emowoman’s-hat\t👒"
+  },
+  {
+   "contents": "0x1f576",   "trigger": "emosunglasses\t🕶"
+  },
+  {
+   "contents": "0x1f4db",   "trigger": "emoname-badge\t📛"
+  },
+  {
+   "contents": "0x1f4d6",   "trigger": "emoopen-book\t📖"
+  },
+  {
+   "contents": "0x1f341",   "trigger": "emomaple-leaf\t🍁"
+  },
+  {
+   "contents": "0x1f426",   "trigger": "emobird\t🐦"
+  },
+  {
+   "contents": "0x1f3de",   "trigger": "emonational-park\t🏞"
+  },
+  {
+   "contents": "0x1f476",   "trigger": "emobaby\t👶"
+  },
+  {
+   "contents": "0x1f192",   "trigger": "emosquared-cool\t🆒"
+  },
+  {
+   "contents": "0x303d",   "trigger": "emopart-alternation-mark\t〽"
+  },
+  {
+   "contents": "0x1f596",   "trigger": "emovulcan-salute\t🖖"
+  },
+  {
+   "contents": "0x1f357",   "trigger": "emopoultry-leg\t🍗"
+  },
+  {
+   "contents": "0x1f607",   "trigger": "emoface-smiling-with-halo\t😇"
+  },
+  {
+   "contents": "0x1f239",   "trigger": "emosquared-divide-ideograph\t🈹"
+  },
+  {
+   "contents": "0x1f51c",   "trigger": "emosoon-arrow\t🔜"
+  },
+  {
+   "contents": "0x1f48f",   "trigger": "emokiss\t💏"
+  },
+  {
+   "contents": "0x1f505",   "trigger": "emodim-button\t🔅"
+  },
+  {
+   "contents": "0x1f363",   "trigger": "emosushi\t🍣"
+  },
+  {
+   "contents": "0x1f6c2",   "trigger": "emopassport-control\t🛂"
+  },
+  {
+   "contents": "0x1f433",   "trigger": "emospouting-whale\t🐳"
+  },
+  {
+   "contents": "0x2623",   "trigger": "emobiohazard\t☣"
+  },
+  {
+   "contents": "0x2196",   "trigger": "emoup-left-arrow\t↖"
+  },
+  {
+   "contents": "0x1f4ce",   "trigger": "emopaperclip\t📎"
+  },
+  {
+   "contents": "0x1f490",   "trigger": "emobouquet\t💐"
+  },
+  {
+   "contents": "0x1f40d",   "trigger": "emosnake\t🐍"
+  },
+  {
+   "contents": "0x26f0",   "trigger": "emomountain\t⛰"
+  },
+  {
+   "contents": "0x2763",   "trigger": "emoheavy-heart-exclamation-mark-ornament\t❣"
+  },
+  {
+   "contents": "0x1f58d",   "trigger": "emocrayon\t🖍"
+  },
+  {
+   "contents": "0x1f54b",   "trigger": "emokaaba\t🕋"
+  },
+  {
+   "contents": "0x1f46a",   "trigger": "emofamily\t👪"
+  },
+  {
+   "contents": "0x1f48d",   "trigger": "emoring\t💍"
+  },
+  {
+   "contents": "0x1f316",   "trigger": "emowaning-gibbous-moon\t🌖"
+  },
+  {
+   "contents": "0x269b",   "trigger": "emoatom-symbol\t⚛"
+  },
+  {
+   "contents": "0x1f33f",   "trigger": "emoherb\t🌿"
+  },
+  {
+   "contents": "0x1f55b",   "trigger": "emotwelve-o’clock\t🕛"
+  },
+  {
+   "contents": "0x1f3c2",   "trigger": "emosnowboarder\t🏂"
+  },
+  {
+   "contents": "0x1f516",   "trigger": "emobookmark\t🔖"
+  },
+  {
+   "contents": "0x1f47f",   "trigger": "emoimp\t👿"
+  },
+  {
+   "contents": "0x1f639",   "trigger": "emocat-face-with-tears-of-joy\t😹"
+  },
+  {
+   "contents": "0x2195",   "trigger": "emoup-down-arrow\t↕"
+  },
+  {
+   "contents": "0x26f9",   "trigger": "emoperson-with-ball\t⛹"
+  },
+  {
+   "contents": "0x1f233",   "trigger": "emosquared-empty-ideograph\t🈳"
+  },
+  {
+   "contents": "0x2651",   "trigger": "emocapricorn\t♑"
+  },
+  {
+   "contents": "0x2734",   "trigger": "emoeight-pointed-star\t✴"
+  },
+  {
+   "contents": "0x1f608",   "trigger": "emoface-smiling-with-horns\t😈"
+  },
+  {
+   "contents": "0x1f68d",   "trigger": "emooncoming-bus\t🚍"
+  },
+  {
+   "contents": "0x1f170",   "trigger": "emoa-button\t🅰"
+  },
+  {
+   "contents": "0x1f3d8",   "trigger": "emohouse-buildings\t🏘"
+  },
+  {
+   "contents": "0x1f456",   "trigger": "emojeans\t👖"
+  },
+  {
+   "contents": "0x1f566",   "trigger": "emoeleven-thirty\t🕦"
+  },
+  {
+   "contents": "0x1f3b7",   "trigger": "emosaxophone\t🎷"
+  },
+  {
+   "contents": "0x1f390",   "trigger": "emowind-chime\t🎐"
+  },
+  {
+   "contents": "0x2b07",   "trigger": "emodown-arrow\t⬇"
+  },
+  {
+   "contents": "0x1f454",   "trigger": "emonecktie\t👔"
+  },
+  {
+   "contents": "0x1f38a",   "trigger": "emoconfetti-ball\t🎊"
+  },
+  {
+   "contents": "0x1f600",   "trigger": "emoface-grinning\t😀"
+  },
+  {
+   "contents": "0x1f579",   "trigger": "emojoystick\t🕹"
+  },
+  {
+   "contents": "0x1f44f",   "trigger": "emoclapping-hands\t👏"
+  },
+  {
+   "contents": "0x1f3c0",   "trigger": "emobasketball\t🏀"
+  },
+  {
+   "contents": "0x1f681",   "trigger": "emohelicopter\t🚁"
+  },
+  {
+   "contents": "0x1f438",   "trigger": "emofrog-face\t🐸"
+  },
+  {
+   "contents": "0x1f44d",   "trigger": "emothumbs-up\t👍"
+  },
+  {
+   "contents": "0x1f33b",   "trigger": "emosunflower\t🌻"
+  },
+  {
+   "contents": "0x1f41a",   "trigger": "emospiral-shell\t🐚"
+  },
+  {
+   "contents": "0x1f40f",   "trigger": "emoram\t🐏"
+  },
+  {
+   "contents": "0x1f3e2",   "trigger": "emooffice-building\t🏢"
+  },
+  {
+   "contents": "0x1f382",   "trigger": "emobirthday-cake\t🎂"
+  },
+  {
+   "contents": "0x1f39a",   "trigger": "emolevel-slider\t🎚"
+  },
+  {
+   "contents": "0x1f6c4",   "trigger": "emobaggage-claim\t🛄"
+  },
+  {
+   "contents": "0x1f6b9",   "trigger": "emomen’s-room\t🚹"
+  },
+  {
+   "contents": "0x1f232",   "trigger": "emosquared-prohibit-ideograph\t🈲"
+  },
+  {
+   "contents": "0x1f43b",   "trigger": "emobear-face\t🐻"
+  },
+  {
+   "contents": "0x1f6ce",   "trigger": "emobellhop-bell\t🛎"
+  },
+  {
+   "contents": "0x1f43a",   "trigger": "emowolf-face\t🐺"
+  },
+  {
+   "contents": "0x1f409",   "trigger": "emodragon\t🐉"
+  },
+  {
+   "contents": "0x1f199",   "trigger": "emoup-button\t🆙"
+  },
+  {
+   "contents": "0x1f628",   "trigger": "emoface-fearful\t😨"
+  },
+  {
+   "contents": "0x1f575",   "trigger": "emodetective\t🕵"
+  },
+  {
+   "contents": "0x1f4e8",   "trigger": "emoincoming-envelope\t📨"
+  },
+  {
+   "contents": "0x1f4a4",   "trigger": "emozzz\t💤"
+  },
+  {
+   "contents": "0x1f912",   "trigger": "emoface-with-thermometer\t🤒"
+  },
+  {
+   "contents": "0x1f683",   "trigger": "emorailway-car\t🚃"
+  },
+  {
+   "contents": "0x1f491",   "trigger": "emocouple-with-heart\t💑"
+  },
+  {
+   "contents": "0x1f500",   "trigger": "emoshuffle-tracks-button\t🔀"
+  },
+  {
+   "contents": "0x1f6a1",   "trigger": "emoaerial-tramway\t🚡"
+  },
+  {
+   "contents": "0x1f5ff",   "trigger": "emomoai\t🗿"
+  },
+  {
+   "contents": "0x1f629",   "trigger": "emoface-weary\t😩"
+  },
+  {
+   "contents": "0x1f3bf",   "trigger": "emoskis\t🎿"
+  },
+  {
+   "contents": "0x25b6",   "trigger": "emoplay-button\t▶"
+  },
+  {
+   "contents": "0x1f689",   "trigger": "emostation\t🚉"
+  },
+  {
+   "contents": "0x26ea",   "trigger": "emochurch\t⛪"
+  },
+  {
+   "contents": "0x1f38d",   "trigger": "emopine-decoration\t🎍"
+  },
+  {
+   "contents": "0x2697",   "trigger": "emoalembic\t⚗"
+  },
+  {
+   "contents": "0x1f4a7",   "trigger": "emodroplet\t💧"
+  },
+  {
+   "contents": "0x1f3d9",   "trigger": "emocityscape\t🏙"
+  },
+  {
+   "contents": "0x1f60c",   "trigger": "emoface-relieved\t😌"
+  },
+  {
+   "contents": "0x1f30d",   "trigger": "emoglobe-showing-europe-africa\t🌍"
+  },
+  {
+   "contents": "0x1f33c",   "trigger": "emoblossom\t🌼"
+  },
+  {
+   "contents": "0x1f4d9",   "trigger": "emoorange-book\t📙"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-digit-seven\t{7⃣}"
+  },
+  {
+   "contents": "0x1f3a7",   "trigger": "emoheadphone\t🎧"
+  },
+  {
+   "contents": "0x3299",   "trigger": "emocircled-secret-ideograph\t㊙"
+  },
+  {
+   "contents": "0x1f3f0",   "trigger": "emocastle\t🏰"
+  },
+  {
+   "contents": "0x1f56f",   "trigger": "emocandle\t🕯"
+  },
+  {
+   "contents": "0x1f3b2",   "trigger": "emogame-die\t🎲"
+  },
+  {
+   "contents": "0x1f350",   "trigger": "emopear\t🍐"
+  },
+  {
+   "contents": "0x1f4df",   "trigger": "emopager\t📟"
+  },
+  {
+   "contents": "0x1f4cc",   "trigger": "emopushpin\t📌"
+  },
+  {
+   "contents": "0x23ee",   "trigger": "emolast-track-button\t⏮"
+  },
+  {
+   "contents": "0x2b06",   "trigger": "emoup-arrow\t⬆"
+  },
+  {
+   "contents": "0x1f62f",   "trigger": "emoface-hushed\t😯"
+  },
+  {
+   "contents": "0x267b",   "trigger": "emorecycling-symbol\t♻"
+  },
+  {
+   "contents": "0x1f63f",   "trigger": "emocat-face-crying\t😿"
+  },
+  {
+   "contents": "0x1f435",   "trigger": "emomonkey-face\t🐵"
+  },
+  {
+   "contents": "0x1f3b1",   "trigger": "emobilliards\t🎱"
+  },
+  {
+   "contents": "0x1f401",   "trigger": "emomouse\t🐁"
+  },
+  {
+   "contents": "0x1f35c",   "trigger": "emosteaming-bowl\t🍜"
+  },
+  {
+   "contents": "0x1f6e1",   "trigger": "emoshield\t🛡"
+  },
+  {
+   "contents": "0x1f3fa",   "trigger": "emoamphora\t🏺"
+  },
+  {
+   "contents": "0x1f623",   "trigger": "emoface-persevering\t😣"
+  },
+  {
+   "contents": "0x1f4bb",   "trigger": "emolaptop-computer\t💻"
+  },
+  {
+   "contents": "0x1f458",   "trigger": "emokimono\t👘"
+  },
+  {
+   "contents": "0x1f499",   "trigger": "emoblue-heart\t💙"
+  },
+  {
+   "contents": "0x1f3ec",   "trigger": "emodepartment-store\t🏬"
+  },
+  {
+   "contents": "0x1f4d4",   "trigger": "emonotebook-with-decorative-cover\t📔"
+  },
+  {
+   "contents": "0x2694",   "trigger": "emocrossed-swords\t⚔"
+  },
+  {
+   "contents": "0x1f531",   "trigger": "emotrident-emblem\t🔱"
+  },
+  {
+   "contents": "0x1f42c",   "trigger": "emodolphin\t🐬"
+  },
+  {
+   "contents": "0x1f642",   "trigger": "emoface-slightly-smiling\t🙂"
+  },
+  {
+   "contents": "0x1f606",   "trigger": "emoface-smiling-with-open-mouth-and-tightly-closed-eyes\t😆"
+  },
+  {
+   "contents": "0x1f34b",   "trigger": "emolemon\t🍋"
+  },
+  {
+   "contents": "0x1f4c1",   "trigger": "emofile-folder\t📁"
+  },
+  {
+   "contents": "0x1f3bb",   "trigger": "emoviolin\t🎻"
+  },
+  {
+   "contents": "0x1f311",   "trigger": "emonew-moon\t🌑"
+  },
+  {
+   "contents": "0x1f403",   "trigger": "emowater-buffalo\t🐃"
+  },
+  {
+   "contents": "0x1f61c",   "trigger": "emoface-with-stuck-out-tongue-and-winking-eye\t😜"
+  },
+  {
+   "contents": "0x270c",   "trigger": "emovictory-hand\t✌"
+  },
+  {
+   "contents": "0x1f465",   "trigger": "emobusts-in-silhouette\t👥"
+  },
+  {
+   "contents": "0x1f684",   "trigger": "emohigh-speed-train\t🚄"
+  },
+  {
+   "contents": "0x1f301",   "trigger": "emofoggy\t🌁"
+  },
+  {
+   "contents": "0x1f355",   "trigger": "emopizza\t🍕"
+  },
+  {
+   "contents": "0x1f4f8",   "trigger": "emocamera-with-flash\t📸"
+  },
+  {
+   "contents": "0x1f461",   "trigger": "emowoman’s-sandal\t👡"
+  },
+  {
+   "contents": "0x1f314",   "trigger": "emowaxing-gibbous-moon\t🌔"
+  },
+  {
+   "contents": "0x1f60a",   "trigger": "emoface-smiling-with-smiling-eyes\t😊"
+  },
+  {
+   "contents": "0x1f564",   "trigger": "emonine-thirty\t🕤"
+  },
+  {
+   "contents": "0x2663",   "trigger": "emoclub-suit\t♣"
+  },
+  {
+   "contents": "0x1f32a",   "trigger": "emotornado\t🌪"
+  },
+  {
+   "contents": "0x1f424",   "trigger": "emobaby-chick\t🐤"
+  },
+  {
+   "contents": "0x1f305",   "trigger": "emosunrise\t🌅"
+  },
+  {
+   "contents": "0x1f4e5",   "trigger": "emoinbox-tray\t📥"
+  },
+  {
+   "contents": "0x1f686",   "trigger": "emotrain\t🚆"
+  },
+  {
+   "contents": "0x1f4f1",   "trigger": "emomobile-phone\t📱"
+  },
+  {
+   "contents": "0x2795",   "trigger": "emoheavy-plus-sign\t➕"
+  },
+  {
+   "contents": "0x1f330",   "trigger": "emochestnut\t🌰"
+  },
+  {
+   "contents": "0x1f603",   "trigger": "emoface-smiling-with-open-mouth\t😃"
+  },
+  {
+   "contents": "0x1f6e4",   "trigger": "emorailway-track\t🛤"
+  },
+  {
+   "contents": "0x1f5fa",   "trigger": "emoworld-map\t🗺"
+  },
+  {
+   "contents": "0x2199",   "trigger": "emodown-left-arrow\t↙"
+  },
+  {
+   "contents": "0x1f37a",   "trigger": "emobeer-mug\t🍺"
+  },
+  {
+   "contents": "0x23f3",   "trigger": "emohourglass-with-flowing-sand\t⏳"
+  },
+  {
+   "contents": "0x1f4ec",   "trigger": "emoopen-mailbox-with-raised-flag\t📬"
+  },
+  {
+   "contents": "0x23f1",   "trigger": "emostopwatch\t⏱"
+  },
+  {
+   "contents": "0x1f362",   "trigger": "emooden\t🍢"
+  },
+  {
+   "contents": "0x1f685",   "trigger": "emohigh-speed-train-with-bullet-nose\t🚅"
+  },
+  {
+   "contents": "0x1f6c1",   "trigger": "emobathtub\t🛁"
+  },
+  {
+   "contents": "0x1f332",   "trigger": "emoevergreen\t🌲"
+  },
+  {
+   "contents": "0x1f3ee",   "trigger": "emored-paper-lantern\t🏮"
+  },
+  {
+   "contents": "0x1f4b8",   "trigger": "emomoney-with-wings\t💸"
+  },
+  {
+   "contents": "0x1f916",   "trigger": "emorobot-face\t🤖"
+  },
+  {
+   "contents": "0x1f440",   "trigger": "emoeyes\t👀"
+  },
+  {
+   "contents": "0x1f337",   "trigger": "emotulip\t🌷"
+  },
+  {
+   "contents": "0x1f4c4",   "trigger": "emopage-facing-up\t📄"
+  },
+  {
+   "contents": "0x1f349",   "trigger": "emowatermelon\t🍉"
+  },
+  {
+   "contents": "0x1f191",   "trigger": "emosquared-cl\t🆑"
+  },
+  {
+   "contents": "0x1f35f",   "trigger": "emofrench-fries\t🍟"
+  },
+  {
+   "contents": "0x1f404",   "trigger": "emocow\t🐄"
+  },
+  {
+   "contents": "0x1f3c1",   "trigger": "emochequered-flag\t🏁"
+  },
+  {
+   "contents": "0x1f4cd",   "trigger": "emoround-pushpin\t📍"
+  },
+  {
+   "contents": "0x1f486",   "trigger": "emoface-massage\t💆"
+  },
+  {
+   "contents": "0x1f915",   "trigger": "emoface-with-head-bandage\t🤕"
+  },
+  {
+   "contents": "0x1f6a4",   "trigger": "emospeedboat\t🚤"
+  },
+  {
+   "contents": "0x1f320",   "trigger": "emoshooting-star\t🌠"
+  },
+  {
+   "contents": "0x26b0",   "trigger": "emocoffin\t⚰"
+  },
+  {
+   "contents": "0x1f6a5",   "trigger": "emohorizontal-traffic-light\t🚥"
+  },
+  {
+   "contents": "0x26a1",   "trigger": "emohigh-voltage\t⚡"
+  },
+  {
+   "contents": "0x1f64c",   "trigger": "emoperson-raising-hands\t🙌"
+  },
+  {
+   "contents": "0x1f6b1",   "trigger": "emonon-potable-water\t🚱"
+  },
+  {
+   "contents": "0x1f47a",   "trigger": "emogoblin\t👺"
+  },
+  {
+   "contents": "0x1f306",   "trigger": "emocityscape-at-dusk\t🌆"
+  },
+  {
+   "contents": "0x1f4eb",   "trigger": "emoclosed-mailbox-with-raised-flag\t📫"
+  },
+  {
+   "contents": "0x1f312",   "trigger": "emowaxing-crescent-moon\t🌒"
+  },
+  {
+   "contents": "0x2712",   "trigger": "emoblack-nib\t✒"
+  },
+  {
+   "contents": "0x1f43f",   "trigger": "emochipmunk\t🐿"
+  },
+  {
+   "contents": "0x1f201",   "trigger": "emosquared-katakana-koko\t🈁"
+  },
+  {
+   "contents": "0x2660",   "trigger": "emospade-suit\t♠"
+  },
+  {
+   "contents": "0x1f374",   "trigger": "emofork-and-knife\t🍴"
+  },
+  {
+   "contents": "0x1f534",   "trigger": "emored-circle\t🔴"
+  },
+  {
+   "contents": "0x1f52e",   "trigger": "emocrystal-ball\t🔮"
+  },
+  {
+   "contents": "0x1f52b",   "trigger": "emopistol\t🔫"
+  },
+  {
+   "contents": "0x1f5d2",   "trigger": "emospiral-notepad\t🗒"
+  },
+  {
+   "contents": "0x1f307",   "trigger": "emosunset\t🌇"
+  },
+  {
+   "contents": "0x2614",   "trigger": "emoumbrella-with-rain-drops\t☔"
+  },
+  {
+   "contents": "0x1f6bf",   "trigger": "emoshower\t🚿"
+  },
+  {
+   "contents": "0x1f370",   "trigger": "emoshortcake\t🍰"
+  },
+  {
+   "contents": "0x1f6e0",   "trigger": "emohammer-and-wrench\t🛠"
+  },
+  {
+   "contents": "0x1f336",   "trigger": "emohot-pepper\t🌶"
+  },
+  {
+   "contents": "0x2714",   "trigger": "emoheavy-check-mark\t✔"
+  },
+  {
+   "contents": "0x2653",   "trigger": "emopisces\t♓"
+  },
+  {
+   "contents": "0x1f369",   "trigger": "emodoughnut\t🍩"
+  },
+  {
+   "contents": "0x25fd",   "trigger": "emowhite-medium-small-square\t◽"
+  },
+  {
+   "contents": "0x1f5c3",   "trigger": "emocard-file-box\t🗃"
+  },
+  {
+   "contents": "0x1f36b",   "trigger": "emochocolate-bar\t🍫"
+  },
+  {
+   "contents": "0x1f4e6",   "trigger": "emopackage\t📦"
+  },
+  {
+   "contents": "0x231b",   "trigger": "emohourglass\t⌛"
+  },
+  {
+   "contents": "0x1f489",   "trigger": "emosyringe\t💉"
+  },
+  {
+   "contents": "0x1f44a",   "trigger": "emooncoming-fist\t👊"
+  },
+  {
+   "contents": "0x1f30c",   "trigger": "emomilky-way\t🌌"
+  },
+  {
+   "contents": "0x1f432",   "trigger": "emodragon-face\t🐲"
+  },
+  {
+   "contents": "0x1f4a6",   "trigger": "emosweat-droplets\t💦"
+  },
+  {
+   "contents": "0x1f35e",   "trigger": "emobread\t🍞"
+  },
+  {
+   "contents": "0x1f347",   "trigger": "emograpes\t🍇"
+  },
+  {
+   "contents": "0x1f4a1",   "trigger": "emolight-bulb\t💡"
+  },
+  {
+   "contents": "0x1f448",   "trigger": "emobackhand-index-pointing-left\t👈"
+  },
+  {
+   "contents": "0x1f549",   "trigger": "emoom\t🕉"
+  },
+  {
+   "contents": "0x1f197",   "trigger": "emosquared-ok\t🆗"
+  },
+  {
+   "contents": "0x1f32d",   "trigger": "emohot-dog\t🌭"
+  },
+  {
+   "contents": "0x1f6b7",   "trigger": "emono-pedestrians\t🚷"
+  },
+  {
+   "contents": "0x1f3bc",   "trigger": "emomusical-score\t🎼"
+  },
+  {
+   "contents": "0x1f3a4",   "trigger": "emomicrophone\t🎤"
+  },
+  {
+   "contents": "0x1f46b",   "trigger": "emoman-and-woman-holding-hands\t👫"
+  },
+  {
+   "contents": "0x1f50c",   "trigger": "emoelectric-plug\t🔌"
+  },
+  {
+   "contents": "0x1f324",   "trigger": "emosun-behind-small-cloud\t🌤"
+  },
+  {
+   "contents": "0x1f3f9",   "trigger": "emobow-and-arrow\t🏹"
+  },
+  {
+   "contents": "0x1f31a",   "trigger": "emoface-new-moon\t🌚"
+  },
+  {
+   "contents": "0x1f449",   "trigger": "emobackhand-index-pointing-right\t👉"
+  },
+  {
+   "contents": "0x1f444",   "trigger": "emomouth\t👄"
+  },
+  {
+   "contents": "0x1f6a7",   "trigger": "emoconstruction\t🚧"
+  },
+  {
+   "contents": "0x1f34c",   "trigger": "emobanana\t🍌"
+  },
+  {
+   "contents": "0x1f474",   "trigger": "emoold-man\t👴"
+  },
+  {
+   "contents": "0x1f4a2",   "trigger": "emoanger-symbol\t💢"
+  },
+  {
+   "contents": "0x1f4d1",   "trigger": "emobookmark-tabs\t📑"
+  },
+  {
+   "contents": "0x1f328",   "trigger": "emocloud-with-snow\t🌨"
+  },
+  {
+   "contents": "0x1f6bc",   "trigger": "emobaby-symbol\t🚼"
+  },
+  {
+   "contents": "0x1f69b",   "trigger": "emoarticulated-lorry\t🚛"
+  },
+  {
+   "contents": "0x2702",   "trigger": "emoscissors\t✂"
+  },
+  {
+   "contents": "0x1f35b",   "trigger": "emocurry-rice\t🍛"
+  },
+  {
+   "contents": "0x1f193",   "trigger": "emosquared-free\t🆓"
+  },
+  {
+   "contents": "0x1f19a",   "trigger": "emosquared-vs\t🆚"
+  },
+  {
+   "contents": "0x2649",   "trigger": "emotaurus\t♉"
+  },
+  {
+   "contents": "0x2604",   "trigger": "emocomet\t☄"
+  },
+  {
+   "contents": "0x1f68a",   "trigger": "emotram\t🚊"
+  },
+  {
+   "contents": "0x262e",   "trigger": "emopeace-symbol\t☮"
+  },
+  {
+   "contents": "0x1f460",   "trigger": "emohigh-heeled-shoe\t👠"
+  },
+  {
+   "contents": "0x1f4b9",   "trigger": "emochart-increasing-with-yen\t💹"
+  },
+  {
+   "contents": "0x1f502",   "trigger": "emorepeat-single-button\t🔂"
+  },
+  {
+   "contents": "0x2747",   "trigger": "emosparkle\t❇"
+  },
+  {
+   "contents": "0x1f4e4",   "trigger": "emooutbox-tray\t📤"
+  },
+  {
+   "contents": "0x1f457",   "trigger": "emodress\t👗"
+  },
+  {
+   "contents": "0x1f41d",   "trigger": "emohoneybee\t🐝"
+  },
+  {
+   "contents": "0x1f5b1",   "trigger": "emocomputer-mouse\t🖱"
+  },
+  {
+   "contents": "0x1f3ae",   "trigger": "emovideo-game\t🎮"
+  },
+  {
+   "contents": "0x1f235",   "trigger": "emosquared-fullness-ideograph\t🈵"
+  },
+  {
+   "contents": "0x1f30b",   "trigger": "emovolcano\t🌋"
+  },
+  {
+   "contents": "0x1f437",   "trigger": "emopig-face\t🐷"
+  },
+  {
+   "contents": "0x1f595",   "trigger": "emomiddle-finger\t🖕"
+  },
+  {
+   "contents": "0x1f194",   "trigger": "emosquared-id\t🆔"
+  },
+  {
+   "contents": "0x1f6b3",   "trigger": "emono-bicycles\t🚳"
+  },
+  {
+   "contents": "0x2708",   "trigger": "emoairplane\t✈"
+  },
+  {
+   "contents": "0x1f4b6",   "trigger": "emoeuro-banknote\t💶"
+  },
+  {
+   "contents": "0x264e",   "trigger": "emolibra\t♎"
+  },
+  {
+   "contents": "0x1f638",   "trigger": "emocat-face-grinning-with-smiling-eyes\t😸"
+  },
+  {
+   "contents": "0x2744",   "trigger": "emosnowflake\t❄"
+  },
+  {
+   "contents": "0x2122",   "trigger": "emotrade-mark\t™"
+  },
+  {
+   "contents": "0x264d",   "trigger": "emovirgo\t♍"
+  },
+  {
+   "contents": "0x1f3ef",   "trigger": "emojapanese-castle\t🏯"
+  },
+  {
+   "contents": "0x1f6e3",   "trigger": "emomotorway\t🛣"
+  },
+  {
+   "contents": "0x1f512",   "trigger": "emolock\t🔒"
+  },
+  {
+   "contents": "0x1f45c",   "trigger": "emohandbag\t👜"
+  },
+  {
+   "contents": "0x231a",   "trigger": "emowatch\t⌚"
+  },
+  {
+   "contents": "0x25c0",   "trigger": "emoreverse-button\t◀"
+  },
+  {
+   "contents": "0x1f384",   "trigger": "emochristmas-tree\t🎄"
+  },
+  {
+   "contents": "0x1f524",   "trigger": "emoinput-latin-letters\t🔤"
+  },
+  {
+   "contents": "0x1f68e",   "trigger": "emotrolleybus\t🚎"
+  },
+  {
+   "contents": "0x1f61f",   "trigger": "emoface-worried\t😟"
+  },
+  {
+   "contents": "0x1f54e",   "trigger": "emomenorah\t🕎"
+  },
+  {
+   "contents": "0x1f4c6",   "trigger": "emotear-off-calendar\t📆"
+  },
+  {
+   "contents": "0x1f50b",   "trigger": "emobattery\t🔋"
+  },
+  {
+   "contents": "0x1f602",   "trigger": "emoface-with-tears-of-joy\t😂"
+  },
+  {
+   "contents": "0x26d1",   "trigger": "emohelmet-with-white-cross\t⛑"
+  },
+  {
+   "contents": "0x1f367",   "trigger": "emoshaved-ice\t🍧"
+  },
+  {
+   "contents": "0x1f420",   "trigger": "emotropical-fish\t🐠"
+  },
+  {
+   "contents": "0x1f5e8",   "trigger": "emoleft-speech-bubble\t🗨"
+  },
+  {
+   "contents": "0x1f36d",   "trigger": "emolollipop\t🍭"
+  },
+  {
+   "contents": "0x1f590",   "trigger": "emoraised-hand-with-fingers-splayed\t🖐"
+  },
+  {
+   "contents": "0x1f4d8",   "trigger": "emoblue-book\t📘"
+  },
+  {
+   "contents": "0x1f469",   "trigger": "emowoman\t👩"
+  },
+  {
+   "contents": "0x1f475",   "trigger": "emoold-woman\t👵"
+  },
+  {
+   "contents": "0x1f238",   "trigger": "emosquared-apply-ideograph\t🈸"
+  },
+  {
+   "contents": "0x26c8",   "trigger": "emocloud-with-lightning-and-rain\t⛈"
+  },
+  {
+   "contents": "0x1f6aa",   "trigger": "emodoor\t🚪"
+  },
+  {
+   "contents": "0x1f3b5",   "trigger": "emomusical-note\t🎵"
+  },
+  {
+   "contents": "0x1f63c",   "trigger": "emocat-face-with-wry-smile\t😼"
+  },
+  {
+   "contents": "0x1f4a9",   "trigger": "emopile-of-poo\t💩"
+  },
+  {
+   "contents": "0x1f419",   "trigger": "emooctopus\t🐙"
+  },
+  {
+   "contents": "0x1f3cc",   "trigger": "emogolfer\t🏌"
+  },
+  {
+   "contents": "0x1f573",   "trigger": "emohole\t🕳"
+  },
+  {
+   "contents": "0x1f6b4",   "trigger": "emobicyclist\t🚴"
+  },
+  {
+   "contents": "0x1f611",   "trigger": "emoface-expressionless\t😑"
+  },
+  {
+   "contents": "0x1f3ce",   "trigger": "emoracing-car\t🏎"
+  },
+  {
+   "contents": "0x2139",   "trigger": "emoinformation-source\tℹ"
+  },
+  {
+   "contents": "0x1f3fb",   "trigger": "emoskin-type-1-2\t🏻"
+  },
+  {
+   "contents": "0x1f4a5",   "trigger": "emocollision\t💥"
+  },
+  {
+   "contents": "0x1f3ac",   "trigger": "emoclapper-board\t🎬"
+  },
+  {
+   "contents": "0x1f612",   "trigger": "emoface-unamused\t😒"
+  },
+  {
+   "contents": "0x1f37e",   "trigger": "emobottle-with-popping-cork\t🍾"
+  },
+  {
+   "contents": "0x1f196",   "trigger": "emosquared-ng\t🆖"
+  },
+  {
+   "contents": "0x1f560",   "trigger": "emofive-thirty\t🕠"
+  },
+  {
+   "contents": "0x1f53a",   "trigger": "emored-triangle-pointed-up\t🔺"
+  },
+  {
+   "contents": "0x1f468",   "trigger": "emoman\t👨"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-digit-two\t{2⃣}"
+  },
+  {
+   "contents": "0x1f6b8",   "trigger": "emochildren-crossing\t🚸"
+  },
+  {
+   "contents": "0x1f495",   "trigger": "emotwo-hearts\t💕"
+  },
+  {
+   "contents": "0x1f4ae",   "trigger": "emowhite-flower\t💮"
+  },
+  {
+   "contents": "0x26fd",   "trigger": "emofuel-pump\t⛽"
+  },
+  {
+   "contents": "0x1f49c",   "trigger": "emopurple-heart\t💜"
+  },
+  {
+   "contents": "0x1f485",   "trigger": "emonail-polish\t💅"
+  },
+  {
+   "contents": "0x1f45b",   "trigger": "emopurse\t👛"
+  },
+  {
+   "contents": "0x1f351",   "trigger": "emopeach\t🍑"
+  },
+  {
+   "contents": "0x270d",   "trigger": "emowriting-hand\t✍"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-digit-nine\t{9⃣}"
+  },
+  {
+   "contents": "0x1f338",   "trigger": "emocherry-blossom\t🌸"
+  },
+  {
+   "contents": "0x1f631",   "trigger": "emoface-screaming-in-fear\t😱"
+  },
+  {
+   "contents": "0x23ec",   "trigger": "emofast-down-button\t⏬"
+  },
+  {
+   "contents": "0x1f4e1",   "trigger": "emosatellite-antenna\t📡"
+  },
+  {
+   "contents": "0x1f533",   "trigger": "emowhite-square-button\t🔳"
+  },
+  {
+   "contents": "0x1f693",   "trigger": "emopolice-car\t🚓"
+  },
+  {
+   "contents": "0x1f366",   "trigger": "emosoft-ice-cream\t🍦"
+  },
+  {
+   "contents": "0x1f50d",   "trigger": "emoleft-pointing-magnifying-glass\t🔍"
+  },
+  {
+   "contents": "0x1f3e1",   "trigger": "emohouse-with-garden\t🏡"
+  },
+  {
+   "contents": "0x1f372",   "trigger": "emopot-of-food\t🍲"
+  },
+  {
+   "contents": "0x1f4e3",   "trigger": "emomegaphone\t📣"
+  },
+  {
+   "contents": "0x1f632",   "trigger": "emoface-astonished\t😲"
+  },
+  {
+   "contents": "0x1f477",   "trigger": "emoconstruction-worker\t👷"
+  },
+  {
+   "contents": "0x25aa",   "trigger": "emoblack-small-square\t▪"
+  },
+  {
+   "contents": "0x1f3c8",   "trigger": "emoamerican-football\t🏈"
+  },
+  {
+   "contents": "0x2b50",   "trigger": "emowhite-medium-star\t⭐"
+  },
+  {
+   "contents": "0x1f4de",   "trigger": "emotelephone-receiver\t📞"
+  },
+  {
+   "contents": "0x1f536",   "trigger": "emolarge-orange-diamond\t🔶"
+  },
+  {
+   "contents": "0x3297",   "trigger": "emocircled-congratulate-ideograph\t㊗"
+  },
+  {
+   "contents": "0x1f6a3",   "trigger": "emorowboat\t🚣"
+  },
+  {
+   "contents": "0x1f615",   "trigger": "emoface-confused\t😕"
+  },
+  {
+   "contents": "0x1f3d0",   "trigger": "emovolleyball\t🏐"
+  },
+  {
+   "contents": "0x2b1c",   "trigger": "emowhite-large-square\t⬜"
+  },
+  {
+   "contents": "0x1f4bd",   "trigger": "emominidisc\t💽"
+  },
+  {
+   "contents": "0x1f51f",   "trigger": "emokeycap-ten\t🔟"
+  },
+  {
+   "contents": "0x1f6bd",   "trigger": "emotoilet\t🚽"
+  },
+  {
+   "contents": "0x1f3ab",   "trigger": "emoticket\t🎫"
+  },
+  {
+   "contents": "0x1f62c",   "trigger": "emoface-grimacing\t😬"
+  },
+  {
+   "contents": "0x1f3ea",   "trigger": "emoconvenience-store\t🏪"
+  },
+  {
+   "contents": "0x1f434",   "trigger": "emoface-horse\t🐴"
+  },
+  {
+   "contents": "0x1f4b7",   "trigger": "emopound-banknote\t💷"
+  },
+  {
+   "contents": "0x1f648",   "trigger": "emosee-no-evil\t🙈"
+  },
+  {
+   "contents": "0x1f4d7",   "trigger": "emogreen-book\t📗"
+  },
+  {
+   "contents": "0x1f445",   "trigger": "emotongue\t👅"
+  },
+  {
+   "contents": "0x1f3d7",   "trigger": "emobuilding-construction\t🏗"
+  },
+  {
+   "contents": "0x1f4ab",   "trigger": "emodizzy\t💫"
+  },
+  {
+   "contents": "0x1f504",   "trigger": "emoanticlockwise-arrows-button\t🔄"
+  },
+  {
+   "contents": "0x1f4c2",   "trigger": "emoopen-file-folder\t📂"
+  },
+  {
+   "contents": "0x1f3c6",   "trigger": "emotrophy\t🏆"
+  },
+  {
+   "contents": "0x1f510",   "trigger": "emoclosed-lock-with-key\t🔐"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-asterisk\t{*⃣}"
+  },
+  {
+   "contents": "0x1f627",   "trigger": "emoface-anguished\t😧"
+  },
+  {
+   "contents": "0x1f368",   "trigger": "emoice-cream\t🍨"
+  },
+  {
+   "contents": "0x1f4dd",   "trigger": "emomemo\t📝"
+  },
+  {
+   "contents": "0x1f3f5",   "trigger": "emorosette\t🏵"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-digit-three\t{3⃣}"
+  },
+  {
+   "contents": "0x1f348",   "trigger": "emomelon\t🍈"
+  },
+  {
+   "contents": "0x1f5fd",   "trigger": "emostatue-of-liberty\t🗽"
+  },
+  {
+   "contents": "0x1f50e",   "trigger": "emoright-pointing-magnifying-glass\t🔎"
+  },
+  {
+   "contents": "0x1f4c9",   "trigger": "emochart-decreasing\t📉"
+  },
+  {
+   "contents": "0x1f917",   "trigger": "emoface-hugging\t🤗"
+  },
+  {
+   "contents": "0x1f3d5",   "trigger": "emocamping\t🏕"
+  },
+  {
+   "contents": "0x1f4f7",   "trigger": "emocamera\t📷"
+  },
+  {
+   "contents": "0x1f699",   "trigger": "emorecreational-vehicle\t🚙"
+  },
+  {
+   "contents": "0x1f5c4",   "trigger": "emofile-cabinet\t🗄"
+  },
+  {
+   "contents": "0x1f3f4",   "trigger": "emowaving-black-flag\t🏴"
+  },
+  {
+   "contents": "0x271d",   "trigger": "emolatin-cross\t✝"
+  },
+  {
+   "contents": "0x1f6f0",   "trigger": "emosatellite\t🛰"
+  },
+  {
+   "contents": "0x1f3c9",   "trigger": "emorugby-football\t🏉"
+  },
+  {
+   "contents": "0x1f487",   "trigger": "emohaircut\t💇"
+  },
+  {
+   "contents": "0x2721",   "trigger": "emostar-of-david\t✡"
+  },
+  {
+   "contents": "0x2198",   "trigger": "emodown-right-arrow\t↘"
+  },
+  {
+   "contents": "0x1f3c5",   "trigger": "emosports-medal\t🏅"
+  },
+  {
+   "contents": "0x1f6cf",   "trigger": "emobed\t🛏"
+  },
+  {
+   "contents": "0x1f4f0",   "trigger": "emonewspaper\t📰"
+  },
+  {
+   "contents": "0x1f237",   "trigger": "emosquared-moon-ideograph\t🈷"
+  },
+  {
+   "contents": "0x1f3e4",   "trigger": "emopost-office\t🏤"
+  },
+  {
+   "contents": "0x1f527",   "trigger": "emowrench\t🔧"
+  },
+  {
+   "contents": "0x25fb",   "trigger": "emowhite-medium-square\t◻"
+  },
+  {
+   "contents": "0x1f6a0",   "trigger": "emomountain-cableway\t🚠"
+  },
+  {
+   "contents": "0x1f442",   "trigger": "emoear\t👂"
+  },
+  {
+   "contents": "0x1f624",   "trigger": "emoface-with-steam-from-nose\t😤"
+  },
+  {
+   "contents": "0x1f3e9",   "trigger": "emolove-hotel\t🏩"
+  },
+  {
+   "contents": "0x1f645",   "trigger": "emogesturing-no\t🙅"
+  },
+  {
+   "contents": "0x1f511",   "trigger": "emokey\t🔑"
+  },
+  {
+   "contents": "0x1f3cf",   "trigger": "emocricket\t🏏"
+  },
+  {
+   "contents": "0x1f412",   "trigger": "emomonkey\t🐒"
+  },
+  {
+   "contents": "0x1f4be",   "trigger": "emofloppy-disk\t💾"
+  },
+  {
+   "contents": "0x1f376",   "trigger": "emosake\t🍶"
+  },
+  {
+   "contents": "0x1f6eb",   "trigger": "emoairplane-departure\t🛫"
+  },
+  {
+   "contents": "0x1f4e2",   "trigger": "emoloudspeaker\t📢"
+  },
+  {
+   "contents": "0x1f529",   "trigger": "emonut-and-bolt\t🔩"
+  },
+  {
+   "contents": "0x1f313",   "trigger": "emofirst-quarter-moon\t🌓"
+  },
+  {
+   "contents": "0x1f3fd",   "trigger": "emoskin-type-4\t🏽"
+  },
+  {
+   "contents": "0x1f3fe",   "trigger": "emoskin-type-5\t🏾"
+  },
+  {
+   "contents": "0x1f3ff",   "trigger": "emoskin-type-6\t🏿"
+  },
+  {
+   "contents": "0x1f688",   "trigger": "emolight-rail\t🚈"
+  },
+  {
+   "contents": "0x1f3fc",   "trigger": "emoskin-type-3\t🏼"
+  },
+  {
+   "contents": "0x2328",   "trigger": "emokeyboard\t⌨"
+  },
+  {
+   "contents": "0x1f5a5",   "trigger": "emodesktop-computer\t🖥"
+  },
+  {
+   "contents": "0x1f682",   "trigger": "emolocomotive\t🚂"
+  },
+  {
+   "contents": "0x1f4d3",   "trigger": "emonotebook\t📓"
+  },
+  {
+   "contents": "0x1f3c7",   "trigger": "emohorse-racing\t🏇"
+  },
+  {
+   "contents": "0x2049",   "trigger": "emoexclamation-question-mark\t⁉"
+  },
+  {
+   "contents": "0x1f4ee",   "trigger": "emopostbox\t📮"
+  },
+  {
+   "contents": "0x1f60f",   "trigger": "emoface-smirking\t😏"
+  },
+  {
+   "contents": "0x1f622",   "trigger": "emoface-crying\t😢"
+  },
+  {
+   "contents": "0x1f45e",   "trigger": "emoman’s-shoe\t👞"
+  },
+  {
+   "contents": "0x1f387",   "trigger": "emosparkler\t🎇"
+  },
+  {
+   "contents": "0x2728",   "trigger": "emosparkles\t✨"
+  },
+  {
+   "contents": "0x2638",   "trigger": "emowheel-of-dharma\t☸"
+  },
+  {
+   "contents": "0x2716",   "trigger": "emoheavy-multiplication-x\t✖"
+  },
+  {
+   "contents": "0x1f53d",   "trigger": "emodown-button\t🔽"
+  },
+  {
+   "contents": "0x1f6bb",   "trigger": "emorestroom\t🚻"
+  },
+  {
+   "contents": "0x262f",   "trigger": "emoyin-yang\t☯"
+  },
+  {
+   "contents": "0x1f620",   "trigger": "emoface-angry\t😠"
+  },
+  {
+   "contents": "0x1f389",   "trigger": "emoparty-popper\t🎉"
+  },
+  {
+   "contents": "0x1f17f",   "trigger": "emop-button\t🅿"
+  },
+  {
+   "contents": "0x270b",   "trigger": "emoraised-hand\t✋"
+  },
+  {
+   "contents": "0x1f43e",   "trigger": "emopaw-prints\t🐾"
+  },
+  {
+   "contents": "0x274c",   "trigger": "emocross-mark\t❌"
+  },
+  {
+   "contents": "0x2754",   "trigger": "emowhite-question-mark\t❔"
+  },
+  {
+   "contents": "0x1f552",   "trigger": "emothree-o’clock\t🕒"
+  },
+  {
+   "contents": "0x1f918",   "trigger": "emosign-of-the-horns\t🤘"
+  },
+  {
+   "contents": "0x1f5ef",   "trigger": "emoright-anger-bubble\t🗯"
+  },
+  {
+   "contents": "0x1f36c",   "trigger": "emocandy\t🍬"
+  },
+  {
+   "contents": "0x24c2",   "trigger": "emocircled-letter-m\tⓂ"
+  },
+  {
+   "contents": "0x1f340",   "trigger": "emofour-leaf-clover\t🍀"
+  },
+  {
+   "contents": "0x1f562",   "trigger": "emoseven-thirty\t🕢"
+  },
+  {
+   "contents": "0x1f3f7",   "trigger": "emolabel\t🏷"
+  },
+  {
+   "contents": "0x267f",   "trigger": "emowheelchair\t♿"
+  },
+  {
+   "contents": "0x1f31d",   "trigger": "emoface-full-moon-with\t🌝"
+  },
+  {
+   "contents": "0x1f5dd",   "trigger": "emoold-key\t🗝"
+  },
+  {
+   "contents": "0x1f55f",   "trigger": "emofour-thirty\t🕟"
+  },
+  {
+   "contents": "0x1f496",   "trigger": "emosparkling-heart\t💖"
+  },
+  {
+   "contents": "0x1f641",   "trigger": "emoface-slightly-frowning\t🙁"
+  },
+  {
+   "contents": "0x1f3c3",   "trigger": "emorunner\t🏃"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-digit-four\t{4⃣}"
+  },
+  {
+   "contents": "0x1f696",   "trigger": "emooncoming-taxi\t🚖"
+  },
+  {
+   "contents": "0x1f5fe",   "trigger": "emomap-of-japan\t🗾"
+  },
+  {
+   "contents": "0x1f616",   "trigger": "emoface-confounded\t😖"
+  },
+  {
+   "contents": "0x1f497",   "trigger": "emogrowing-heart\t💗"
+  },
+  {
+   "contents": "0x1f6ac",   "trigger": "emosmoking\t🚬"
+  },
+  {
+   "contents": "0x1f39f",   "trigger": "emoadmission-tickets\t🎟"
+  },
+  {
+   "contents": "0x1f41e",   "trigger": "emolady-beetle\t🐞"
+  },
+  {
+   "contents": "0x1f422",   "trigger": "emoturtle\t🐢"
+  },
+  {
+   "contents": "0x26f3",   "trigger": "emoflag-in-hole\t⛳"
+  },
+  {
+   "contents": "0x1f687",   "trigger": "emometro\t🚇"
+  },
+  {
+   "contents": "0x274e",   "trigger": "emocross-mark-button\t❎"
+  },
+  {
+   "contents": "0x1f5b2",   "trigger": "emotrackball\t🖲"
+  },
+  {
+   "contents": "0x1f315",   "trigger": "emofull-moon\t🌕"
+  },
+  {
+   "contents": "0x1f397",   "trigger": "emoreminder-ribbon\t🎗"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-digit-eight\t{8⃣}"
+  },
+  {
+   "contents": "0x264b",   "trigger": "emocancer\t♋"
+  },
+  {
+   "contents": "0x1f4fc",   "trigger": "emovideocassette\t📼"
+  },
+  {
+   "contents": "0x1f34d",   "trigger": "emopineapple\t🍍"
+  },
+  {
+   "contents": "0x23f9",   "trigger": "emostop-button\t⏹"
+  },
+  {
+   "contents": "0x1f417",   "trigger": "emoboar\t🐗"
+  },
+  {
+   "contents": "0x1f38b",   "trigger": "emotanabata-tree\t🎋"
+  },
+  {
+   "contents": "0x1f303",   "trigger": "emonight-with-stars\t🌃"
+  },
+  {
+   "contents": "0x1f34a",   "trigger": "emotangerine\t🍊"
+  },
+  {
+   "contents": "0x1f6ae",   "trigger": "emolitter-in-bin-sign\t🚮"
+  },
+  {
+   "contents": "0x1f69c",   "trigger": "emotractor\t🚜"
+  },
+  {
+   "contents": "0x1f52f",   "trigger": "emodotted-six-pointed-star\t🔯"
+  },
+  {
+   "contents": "0x1f195",   "trigger": "emosquared-new\t🆕"
+  },
+  {
+   "contents": "0x1f610",   "trigger": "emoface-neutral\t😐"
+  },
+  {
+   "contents": "0x1f42a",   "trigger": "emocamel\t🐪"
+  },
+  {
+   "contents": "0x1f463",   "trigger": "emofootprints\t👣"
+  },
+  {
+   "contents": "0x23ef",   "trigger": "emoplay-or-pause-button\t⏯"
+  },
+  {
+   "contents": "0x1f62e",   "trigger": "emoface-with-open-mouth\t😮"
+  },
+  {
+   "contents": "0x1f6b0",   "trigger": "emopotable-water\t🚰"
+  },
+  {
+   "contents": "0x1f431",   "trigger": "emocat-face\t🐱"
+  },
+  {
+   "contents": "0x23fa",   "trigger": "emorecord-button\t⏺"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-digit-zero\t{0⃣}"
+  },
+  {
+   "contents": "0x1f32e",   "trigger": "emotaco\t🌮"
+  },
+  {
+   "contents": "0xa9",   "trigger": "emocopyright\t©"
+  },
+  {
+   "contents": "0x1f517",   "trigger": "emolink\t🔗"
+  },
+  {
+   "contents": "0x1f51a",   "trigger": "emoend-arrow\t🔚"
+  },
+  {
+   "contents": "0x1f50a",   "trigger": "emospeaker-loud\t🔊"
+  },
+  {
+   "contents": "0x1f62b",   "trigger": "emoface-tired\t😫"
+  },
+  {
+   "contents": "0x1f58b",   "trigger": "emofountain-pen\t🖋"
+  },
+  {
+   "contents": "0x2755",   "trigger": "emowhite-exclamation-mark\t❕"
+  },
+  {
+   "contents": "0x270a",   "trigger": "emoraised-fist\t✊"
+  },
+  {
+   "contents": "0x1f48c",   "trigger": "emolove-letter\t💌"
+  },
+  {
+   "contents": "0x27bf",   "trigger": "emodouble-curly-loop\t➿"
+  },
+  {
+   "contents": "0x1f604",   "trigger": "emoface-smiling-with-open-mouth-and-smiling-eyes\t😄"
+  },
+  {
+   "contents": "0x26c4",   "trigger": "emosnowman-without-snow\t⛄"
+  },
+  {
+   "contents": "0x1f4d5",   "trigger": "emoclosed-book\t📕"
+  },
+  {
+   "contents": "0x1f3eb",   "trigger": "emoschool\t🏫"
+  },
+  {
+   "contents": "0x1f570",   "trigger": "emomantelpiece-clock\t🕰"
+  },
+  {
+   "contents": "0x1f60d",   "trigger": "emoface-smiling-with-heart-shaped-eyes\t😍"
+  },
+  {
+   "contents": "0x1f45a",   "trigger": "emowoman’s-clothes\t👚"
+  },
+  {
+   "contents": "0x1f46f",   "trigger": "emowomen-partying\t👯"
+  },
+  {
+   "contents": "0x26f8",   "trigger": "emoice-skate\t⛸"
+  },
+  {
+   "contents": "0x1f414",   "trigger": "emochicken\t🐔"
+  },
+  {
+   "contents": "0x1f567",   "trigger": "emotwelve-thirty\t🕧"
+  },
+  {
+   "contents": "0x1f614",   "trigger": "emoface-pensive\t😔"
+  },
+  {
+   "contents": "0x1f605",   "trigger": "emoface-smiling-with-open-mouth-and-cold-sweat\t😅"
+  },
+  {
+   "contents": "0x1f5f3",   "trigger": "emoballot-box-with-ballot\t🗳"
+  },
+  {
+   "contents": "0x262a",   "trigger": "emostar-and-crescent\t☪"
+  },
+  {
+   "contents": "0x1f472",   "trigger": "emoman-with-chinese-cap\t👲"
+  },
+  {
+   "contents": "0x1f361",   "trigger": "emodango\t🍡"
+  },
+  {
+   "contents": "0x1f530",   "trigger": "emojapanese-symbol-for-beginner\t🔰"
+  },
+  {
+   "contents": "0x1f3aa",   "trigger": "emocircus-tent\t🎪"
+  },
+  {
+   "contents": "0x1f3e7",   "trigger": "emoatm-sign\t🏧"
+  },
+  {
+   "contents": "0x1f587",   "trigger": "emolinked-paperclips\t🖇"
+  },
+  {
+   "contents": "0x1f464",   "trigger": "emobust-in-silhouette\t👤"
+  },
+  {
+   "contents": "0x1f48a",   "trigger": "emopill\t💊"
+  },
+  {
+   "contents": "0x1f407",   "trigger": "emorabbit\t🐇"
+  },
+  {
+   "contents": "0x1f309",   "trigger": "emobridge-at-night\t🌉"
+  },
+  {
+   "contents": "0x1f36a",   "trigger": "emocookie\t🍪"
+  },
+  {
+   "contents": "0x26ce",   "trigger": "emoophiuchus\t⛎"
+  },
+  {
+   "contents": "0x1f51e",   "trigger": "emono-one-under-eighteen\t🔞"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-digit-one\t{1⃣}"
+  },
+  {
+   "contents": "0x23f0",   "trigger": "emoalarm-clock\t⏰"
+  },
+  {
+   "contents": "0x1f40c",   "trigger": "emosnail\t🐌"
+  },
+  {
+   "contents": "0x1f69f",   "trigger": "emosuspension-railway\t🚟"
+  },
+  {
+   "contents": "0x1f4ea",   "trigger": "emoclosed-mailbox-with-lowered-flag\t📪"
+  },
+  {
+   "contents": "0x26d3",   "trigger": "emochains\t⛓"
+  },
+  {
+   "contents": "0x2733",   "trigger": "emoeight-spoked-asterisk\t✳"
+  },
+  {
+   "contents": "0x1f359",   "trigger": "emorice-ball\t🍙"
+  },
+  {
+   "contents": "0x1f4c0",   "trigger": "emodvd\t📀"
+  },
+  {
+   "contents": "0x1f171",   "trigger": "emob-button\t🅱"
+  },
+  {
+   "contents": "0x1f63a",   "trigger": "emosmiling-cat-face-with-open-mouth\t😺"
+  },
+  {
+   "contents": "0x1f5c2",   "trigger": "emocard-index-dividers\t🗂"
+  },
+  {
+   "contents": "0x1f334",   "trigger": "emopalm-tree\t🌴"
+  },
+  {
+   "contents": "0x2934",   "trigger": "emoright-arrow-curving-up\t⤴"
+  },
+  {
+   "contents": "0x1f61a",   "trigger": "emoface-kissing-with-closed-eyes\t😚"
+  },
+  {
+   "contents": "0x1f5d1",   "trigger": "emowastebasket\t🗑"
+  },
+  {
+   "contents": "0x1f578",   "trigger": "emospider-web\t🕸"
+  },
+  {
+   "contents": "0x1f509",   "trigger": "emospeaker-on\t🔉"
+  },
+  {
+   "contents": "0x1f555",   "trigger": "emosix-o’clock\t🕕"
+  },
+  {
+   "contents": "0x1f4b0",   "trigger": "emomoney-bag\t💰"
+  },
+  {
+   "contents": "0x1f429",   "trigger": "emopoodle\t🐩"
+  },
+  {
+   "contents": "0x1f508",   "trigger": "emospeaker\t🔈"
+  },
+  {
+   "contents": "0x1f331",   "trigger": "emoseedling\t🌱"
+  },
+  {
+   "contents": "0x1f635",   "trigger": "emoface-dizzy\t😵"
+  },
+  {
+   "contents": "0x1f33d",   "trigger": "emoear-of-corn\t🌽"
+  },
+  {
+   "contents": "0x1f643",   "trigger": "emoface-upside-down\t🙃"
+  },
+  {
+   "contents": "0x1f6d0",   "trigger": "emoplace-of-worship\t🛐"
+  },
+  {
+   "contents": "0x1f3a1",   "trigger": "emoferris-wheel\t🎡"
+  },
+  {
+   "contents": "0x1f695",   "trigger": "emotaxi\t🚕"
+  },
+  {
+   "contents": "0x1f4bf",   "trigger": "emooptical-disc\t💿"
+  },
+  {
+   "contents": "0x1f37f",   "trigger": "emopopcorn\t🍿"
+  },
+  {
+   "contents": "0x1f459",   "trigger": "emobikini\t👙"
+  },
+  {
+   "contents": "0x1f3a3",   "trigger": "emofishing-pole\t🎣"
+  },
+  {
+   "contents": "0x1f43d",   "trigger": "emopig-nose\t🐽"
+  },
+  {
+   "contents": "0x1f345",   "trigger": "emotomato\t🍅"
+  },
+  {
+   "contents": "0x1f68f",   "trigger": "emobus-stop\t🚏"
+  },
+  {
+   "contents": "0x1f3da",   "trigger": "emoderelict-house-building\t🏚"
+  },
+  {
+   "contents": "0x1f33a",   "trigger": "emohibiscus\t🌺"
+  },
+  {
+   "contents": "0x1f5de",   "trigger": "emorolled-up-newspaper\t🗞"
+  },
+  {
+   "contents": "0x1f613",   "trigger": "emoface-with-cold-sweat\t😓"
+  },
+  {
+   "contents": "0x1f47d",   "trigger": "emoalien\t👽"
+  },
+  {
+   "contents": "0x1f4da",   "trigger": "emobooks\t📚"
+  },
+  {
+   "contents": "0x1f364",   "trigger": "emofried-shrimp\t🍤"
+  },
+  {
+   "contents": "0x1f46d",   "trigger": "emotwo-women-holding-hands\t👭"
+  },
+  {
+   "contents": "0x2665",   "trigger": "emoheart-suit\t♥"
+  },
+  {
+   "contents": "0x1f329",   "trigger": "emocloud-with-lightning\t🌩"
+  },
+  {
+   "contents": "0x1f521",   "trigger": "emoinput-latin-lowercase\t🔡"
+  },
+  {
+   "contents": "0x25fc",   "trigger": "emoblack-medium-square\t◼"
+  },
+  {
+   "contents": "0x1f3a6",   "trigger": "emocinema\t🎦"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-number\t{#⃣}"
+  },
+  {
+   "contents": "0x1f3e3",   "trigger": "emojapanese-post-office\t🏣"
+  },
+  {
+   "contents": "0x1f553",   "trigger": "emofour-o’clock\t🕓"
+  },
+  {
+   "contents": "0x1f453",   "trigger": "emoglasses\t👓"
+  },
+  {
+   "contents": "0x1f493",   "trigger": "emobeating-heart\t💓"
+  },
+  {
+   "contents": "0x1f3a5",   "trigger": "emomovie-camera\t🎥"
+  },
+  {
+   "contents": "0x1f391",   "trigger": "emomoon-ceremony\t🎑"
+  },
+  {
+   "contents": "0x1f46c",   "trigger": "emotwo-men-holding-hands\t👬"
+  },
+  {
+   "contents": "0x1f4e9",   "trigger": "emoenvelope-with-arrow\t📩"
+  },
+  {
+   "contents": "0x1f4d2",   "trigger": "emoledger\t📒"
+  },
+  {
+   "contents": "0x1f68c",   "trigger": "emobus\t🚌"
+  },
+  {
+   "contents": "0x2709",   "trigger": "emoenvelope\t✉"
+  },
+  {
+   "contents": "0x1f36e",   "trigger": "emocustard\t🍮"
+  },
+  {
+   "contents": "0x1f43c",   "trigger": "emopanda-face\t🐼"
+  },
+  {
+   "contents": "0x1f4ba",   "trigger": "emoseat\t💺"
+  },
+  {
+   "contents": "0x1f480",   "trigger": "emoskull\t💀"
+  },
+  {
+   "contents": "0x1f6b5",   "trigger": "emomountain-biker\t🚵"
+  },
+  {
+   "contents": "0x1f3e6",   "trigger": "emobank\t🏦"
+  },
+  {
+   "contents": "0x1f399",   "trigger": "emostudio-microphone\t🎙"
+  },
+  {
+   "contents": "0x264c",   "trigger": "emoleo\t♌"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-digit-six\t{6⃣}"
+  },
+  {
+   "contents": "0x1f31b",   "trigger": "emofirst-quarter-moon-with-face\t🌛"
+  },
+  {
+   "contents": "0x1f39e",   "trigger": "emofilm-frames\t🎞"
+  },
+  {
+   "contents": "0x1f537",   "trigger": "emolarge-blue-diamond\t🔷"
+  },
+  {
+   "contents": "0x1f378",   "trigger": "emococktail-glass\t🍸"
+  },
+  {
+   "contents": "0x1f636",   "trigger": "emoface-without-mouth\t😶"
+  },
+  {
+   "contents": "0x1f5d3",   "trigger": "emospiral-calendar\t🗓"
+  },
+  {
+   "contents": "0x1f982",   "trigger": "emoscorpion\t🦂"
+  },
+  {
+   "contents": "0x1f39b",   "trigger": "emocontrol-knobs\t🎛"
+  },
+  {
+   "contents": "0x26f1",   "trigger": "emoumbrella-on-ground\t⛱"
+  },
+  {
+   "contents": "0x1f647",   "trigger": "emoperson-bowing\t🙇"
+  },
+  {
+   "contents": "0x1f4f4",   "trigger": "emomobile-phone-off\t📴"
+  },
+  {
+   "contents": "0x7b",   "trigger": "emokeycap-digit-five\t{5⃣}"
+  },
+  {
+   "contents": "0x1f64b",   "trigger": "emohappy-person-raising-hand\t🙋"
+  },
+  {
+   "contents": "0x1f3b0",   "trigger": "emoslot-machine\t🎰"
+  },
+  {
+   "contents": "0x1f478",   "trigger": "emoprincess\t👸"
+  },
+  {
+   "contents": "0x1f6a6",   "trigger": "emovertical-traffic-light\t🚦"
+  },
+  {
+   "contents": "0x1f4f9",   "trigger": "emovideo-camera\t📹"
+  },
+  {
+   "contents": "0x1f462",   "trigger": "emowoman’s-boot\t👢"
+  },
+  {
+   "contents": "0x1f574",   "trigger": "emoman-in-business-suit-levitating\t🕴"
+  },
+  {
+   "contents": "0x1f3a2",   "trigger": "emoroller-coaster\t🎢"
+  },
+  {
+   "contents": "0x1f9c0",   "trigger": "emocheese-wedge\t🧀"
+  },
+  {
+   "contents": "0x1f393",   "trigger": "emograduation-cap\t🎓"
+  },
+  {
+   "contents": "0x1f565",   "trigger": "emoten-thirty\t🕥"
+  },
+  {
+   "contents": "0x1f483",   "trigger": "emodancer\t💃"
+  },
+  {
+   "contents": "0x2705",   "trigger": "emowhite-heavy-check-mark\t✅"
+  },
+  {
+   "contents": "0x1f441",   "trigger": "emoeye\t👁"
+  },
+  {
+   "contents": "0x1f554",   "trigger": "emofive-o’clock\t🕔"
+  },
+  {
+   "contents": "0x261d",   "trigger": "emoindex-pointing-up\t☝"
+  },
+  {
+   "contents": "0x1f515",   "trigger": "emobell-with-slash\t🔕"
+  },
+  {
+   "contents": "0x1f6c3",   "trigger": "emocustoms\t🛃"
+  },
+  {
+   "contents": "0x1f479",   "trigger": "emoogre\t👹"
+  },
+  {
+   "contents": "0x1f4aa",   "trigger": "emoflexed-biceps\t💪"
+  },
+  {
+   "contents": "0x1f38e",   "trigger": "emojapanese-dolls\t🎎"
+  },
+  {
+   "contents": "0x1f983",   "trigger": "emoturkey\t🦃"
+  },
+  {
+   "contents": "0x2615",   "trigger": "emohot-beverage\t☕"
+  },
+  {
+   "contents": "0x1f4e0",   "trigger": "emofax-machine\t📠"
+  },
+  {
+   "contents": "0x26b1",   "trigger": "emofuneral-urn\t⚱"
+  },
+  {
+   "contents": "0x1f53b",   "trigger": "emored-triangle-pointed-down\t🔻"
+  },
+  {
+   "contents": "0x1f430",   "trigger": "emorabbit-face\t🐰"
+  },
+  {
+   "contents": "0x1f470",   "trigger": "emobride-with-veil\t👰"
+  },
+  {
+   "contents": "0x1f40b",   "trigger": "emowhale\t🐋"
+  },
+  {
+   "contents": "0x1f633",   "trigger": "emoface-flushed\t😳"
+  },
+  {
+   "contents": "0x1f004",   "trigger": "emomahjong-red-dragon\t🀄"
+  },
+  {
+   "contents": "0x1f4c5",   "trigger": "emocalendar\t📅"
+  },
+  {
+   "contents": "0x1f3be",   "trigger": "emotennis\t🎾"
+  },
+  {
+   "contents": "0x23e9",   "trigger": "emofast-forword-button\t⏩"
+  },
+  {
+   "contents": "0x1f55e",   "trigger": "emothree-thirty\t🕞"
+  },
+  {
+   "contents": "0x1f577",   "trigger": "emospider\t🕷"
+  },
+  {
+   "contents": "0x1f427",   "trigger": "emopenguin\t🐧"
+  },
+  {
+   "contents": "0x1f3a8",   "trigger": "emoartist-palette\t🎨"
+  },
+  {
+   "contents": "0x1f558",   "trigger": "emonine-o’clock\t🕘"
+  },
+  {
+   "contents": "0x23f2",   "trigger": "emotimer-clock\t⏲"
+  },
+  {
+   "contents": "0x1f4ff",   "trigger": "emoprayer-beads\t📿"
+  },
+  {
+   "contents": "0x1f356",   "trigger": "emomeat-on-bone\t🍖"
+  },
+  {
+   "contents": "0x1f251",   "trigger": "emocircled-accept-ideograph\t🉑"
+  },
+  {
+   "contents": "0x1f4c3",   "trigger": "emopage-with-curl\t📃"
+  },
+  {
+   "contents": "0x26ab",   "trigger": "emoblack-circle\t⚫"
+  },
+  {
+   "contents": "0x1f30a",   "trigger": "emowater-wave\t🌊"
+  },
+  {
+   "contents": "0x2601",   "trigger": "emocloud\t☁"
+  },
+  {
+   "contents": "0x1f35d",   "trigger": "emospaghetti\t🍝"
+  },
+  {
+   "contents": "0x1f308",   "trigger": "emorainbow\t🌈"
+  },
+  {
+   "contents": "0x2620",   "trigger": "emoskull-and-crossbones\t☠"
+  },
+  {
+   "contents": "0x23ed",   "trigger": "emonext-track-button\t⏭"
+  },
+  {
+   "contents": "0x264a",   "trigger": "emogemini\t♊"
+  },
+  {
+   "contents": "0x1f30f",   "trigger": "emoglobe-showing-asia-australia\t🌏"
+  },
+  {
+   "contents": "0x1f52c",   "trigger": "emomicroscope\t🔬"
+  },
+  {
+   "contents": "0x1f37c",   "trigger": "emobaby-bottle\t🍼"
+  },
+  {
+   "contents": "0x2602",   "trigger": "emoumbrella\t☂"
+  },
+  {
+   "contents": "0x1f535",   "trigger": "emoblue-circle\t🔵"
+  },
+  {
+   "contents": "0x1f556",   "trigger": "emoseven-o’clock\t🕖"
+  },
+  {
+   "contents": "0x2757",   "trigger": "emoexclamation-mark\t❗"
+  },
+  {
+   "contents": "0x1f3b9",   "trigger": "emomusical-keyboard\t🎹"
+  },
+  {
+   "contents": "0x1f62d",   "trigger": "emoface-loudly-crying\t😭"
+  },
+  {
+   "contents": "0x1f3b3",   "trigger": "emobowling\t🎳"
+  },
+  {
+   "contents": "0x1f17e",   "trigger": "emoo-button\t🅾"
+  },
+  {
+   "contents": "0x1f4bc",   "trigger": "emobriefcase\t💼"
+  },
+  {
+   "contents": "0x2797",   "trigger": "emoheavy-division-sign\t➗"
+  },
+  {
+   "contents": "0x1f503",   "trigger": "emoclockwise-vertical-arrows\t🔃"
+  },
+  {
+   "contents": "0x1f471",   "trigger": "emoperson-with-blond-hair\t👱"
+  },
+  {
+   "contents": "0x1f4f5",   "trigger": "emono-mobile-phones\t📵"
+  },
+  {
+   "contents": "0x2b55",   "trigger": "emoheavy-large-circle\t⭕"
+  },
+  {
+   "contents": "0x1f58a",   "trigger": "emopen\t🖊"
+  },
+  {
+   "contents": "0x1f392",   "trigger": "emoschool-backpack\t🎒"
+  },
+  {
+   "contents": "0x1f38f",   "trigger": "emocarp-streamer\t🎏"
+  },
+  {
+   "contents": "0x1f619",   "trigger": "emoface-kissing-with-smiling-eyes\t😙"
+  },
+  {
+   "contents": "0x26c5",   "trigger": "emosun-behind-cloud\t⛅"
+  },
+  {
+   "contents": "0x1f36f",   "trigger": "emohoney-pot\t🍯"
+  },
+  {
+   "contents": "0x2668",   "trigger": "emohot-springs\t♨"
+  },
+  {
+   "contents": "0x2796",   "trigger": "emoheavy-minus-sign\t➖"
+  },
+  {
+   "contents": "0x1f646",   "trigger": "emogesturing-ok\t🙆"
+  },
+  {
+   "contents": "0x2650",   "trigger": "emosagittarius\t♐"
+  },
+  {
+   "contents": "0x1f4ed",   "trigger": "emoopen-mailbox-with-lowered-flag\t📭"
+  },
+  {
+   "contents": "0x1f300",   "trigger": "emocyclone\t🌀"
+  },
+  {
+   "contents": "0x1f42d",   "trigger": "emomouse-face\t🐭"
+  },
+  {
+   "contents": "0x2b1b",   "trigger": "emoblack-large-square\t⬛"
+  },
+  {
+   "contents": "0x1f6ec",   "trigger": "emoairplane-arrival\t🛬"
+  },
+  {
+   "contents": "0x26cf",   "trigger": "emopick\t⛏"
+  },
+  {
+   "contents": "0x1f466",   "trigger": "emoboy\t👦"
+  },
+  {
+   "contents": "0x1f321",   "trigger": "emothermometer\t🌡"
+  },
+  {
+   "contents": "0x26f2",   "trigger": "emofountain\t⛲"
+  },
+  {
+   "contents": "0x1f498",   "trigger": "emoheart-with-arrow\t💘"
+  },
+  {
+   "contents": "0x1f310",   "trigger": "emoglobe-with-meridians\t🌐"
+  },
+  {
+   "contents": "0x21a9",   "trigger": "emoright-arrow-curving-left\t↩"
+  },
+  {
+   "contents": "0x1f484",   "trigger": "emolipstick\t💄"
+  },
+  {
+   "contents": "0x1f64e",   "trigger": "emoperson-pouting\t🙎"
+  },
+  {
+   "contents": "0x2611",   "trigger": "emoballot-box-with-check\t☑"
+  },
+  {
+   "contents": "0x1f333",   "trigger": "emodeciduous-tree\t🌳"
+  },
+  {
+   "contents": "0x1f532",   "trigger": "emoblack-square-button\t🔲"
+  },
+  {
+   "contents": "0x26bd",   "trigger": "emosoccer-ball\t⚽"
+  },
+  {
+   "contents": "0x2753",   "trigger": "emoquestion-mark\t❓"
+  },
+  {
+   "contents": "0x26be",   "trigger": "emobaseball\t⚾"
+  },
+  {
+   "contents": "0x1f3ad",   "trigger": "emoperforming-arts\t🎭"
+  },
+  {
+   "contents": "0x1f42b",   "trigger": "emotwo-hump-camel\t🐫"
+  },
+  {
+   "contents": "0x1f4f3",   "trigger": "emovibration-mode\t📳"
+  },
+  {
+   "contents": "0x2935",   "trigger": "emoright-arrow-curving-down\t⤵"
+  },
+  {
+   "contents": "0x1f32c",   "trigger": "emowind-face\t🌬"
+  },
+  {
+   "contents": "0x26d4",   "trigger": "emono-entry\t⛔"
+  },
+  {
+   "contents": "0x1f354",   "trigger": "emohamburger\t🍔"
+  },
+  {
+   "contents": "0x1f3df",   "trigger": "emostadium\t🏟"
+  },
+  {
+   "contents": "0x1f5fc",   "trigger": "emotokyo-tower\t🗼"
+  },
+  {
+   "contents": "0x1f202",   "trigger": "emosquared-katakana-sa\t🈂"
+  },
+  {
+   "contents": "0x1f649",   "trigger": "emohear-no-evil\t🙉"
+  },
+  {
+   "contents": "0x1f47c",   "trigger": "emobaby-angel\t👼"
+  },
+  {
+   "contents": "0x1f506",   "trigger": "emobright-button\t🔆"
+  },
+  {
+   "contents": "0x1f428",   "trigger": "emokoala\t🐨"
+  },
+  {
+   "contents": "0x2622",   "trigger": "emoradioactive\t☢"
+  },
+  {
+   "contents": "0x1f3af",   "trigger": "emodirect-hit\t🎯"
+  },
+  {
+   "contents": "0x1f561",   "trigger": "emosix-thirty\t🕡"
+  },
+  {
+   "contents": "0x1f41f",   "trigger": "emofish\t🐟"
+  },
+  {
+   "contents": "0x1f358",   "trigger": "emorice-cracker\t🍘"
+  },
+  {
+   "contents": "0x26a0",   "trigger": "emowarning\t⚠"
+  },
+  {
+   "contents": "0x1f467",   "trigger": "emogirl\t👧"
+  },
+  {
+   "contents": "0x1f304",   "trigger": "emosunrise-over-mountains\t🌄"
+  },
+  {
+   "contents": "0x1f32f",   "trigger": "emoburrito\t🌯"
+  },
+  {
+   "contents": "0x1f375",   "trigger": "emoteacup-without-handle\t🍵"
+  },
+  {
+   "contents": "0x1f3f8",   "trigger": "emobadminton\t🏸"
+  },
+  {
+   "contents": "0x1f3d1",   "trigger": "emofield-hockey\t🏑"
+  },
+  {
+   "contents": "0x1f6cc",   "trigger": "emoperson-in-bed\t🛌"
+  },
+  {
+   "contents": "0x1f64f",   "trigger": "emofolded-hands\t🙏"
+  },
+  {
+   "contents": "0x1f0cf",   "trigger": "emojoker\t🃏"
+  },
+  {
+   "contents": "0x1f69a",   "trigger": "emodelivery-truck\t🚚"
+  },
+  {
+   "contents": "0x2652",   "trigger": "emoaquarius\t♒"
+  },
+  {
+   "contents": "0x1f318",   "trigger": "emowaning-crescent-moon\t🌘"
+  },
+  {
+   "contents": "0x1f47e",   "trigger": "emoalien-monster\t👾"
+  },
+  {
+   "contents": "0x26f4",   "trigger": "emoferry\t⛴"
+  },
+  {
+   "contents": "0x1f4cf",   "trigger": "emostraight-ruler\t📏"
+  },
+  {
+   "contents": "0x1f54d",   "trigger": "emosynagogue\t🕍"
+  },
+  {
+   "contents": "0x1f62a",   "trigger": "emoface-sleepy\t😪"
+  },
+  {
+   "contents": "0x1f539",   "trigger": "emosmall-blue-diamond\t🔹"
+  },
+  {
+   "contents": "0x1f984",   "trigger": "emounicorn-face\t🦄"
+  },
+  {
+   "contents": "0x1f6b6",   "trigger": "emopedestrian\t🚶"
+  },
+  {
+   "contents": "0x1f3dd",   "trigger": "emodesert-island\t🏝"
+  },
+  {
+   "contents": "0x1f4b4",   "trigger": "emoyen-banknote\t💴"
+  },
+  {
+   "contents": "0x1f6a9",   "trigger": "emotriangular-flag\t🚩"
+  },
+  {
+   "contents": "0x25fe",   "trigger": "emoblack-medium-small-square\t◾"
+  },
+  {
+   "contents": "0x21aa",   "trigger": "emoleft-arrow-curving-right\t↪"
+  },
+  {
+   "contents": "0x1f618",   "trigger": "emoface-throwing-a-kiss\t😘"
+  },
+  {
+   "contents": "0x1f3d2",   "trigger": "emoice-hockey-stick-and-puck\t🏒"
+  },
+  {
+   "contents": "0x1f360",   "trigger": "emoroasted-sweet-potato\t🍠"
+  },
+  {
+   "contents": "0x1f550",   "trigger": "emoone-o’clock\t🕐"
+  },
+  {
+   "contents": "0x23cf",   "trigger": "emoeject-button\t⏏"
+  },
+  {
+   "contents": "0x1f6be",   "trigger": "emowater-closet\t🚾"
+  },
+  {
+   "contents": "0x1f326",   "trigger": "emosun-behind-cloud-with-rain\t🌦"
+  },
+  {
+   "contents": "0x1f455",   "trigger": "emot-shirt\t👕"
+  },
+  {
+   "contents": "0x1f3d3",   "trigger": "emoping-pong\t🏓"
+  },
+  {
+   "contents": "0x1f421",   "trigger": "emoblowfish\t🐡"
+  },
+  {
+   "contents": "0x1f5e3",   "trigger": "emospeaking-head\t🗣"
+  },
+  {
+   "contents": "0x1f410",   "trigger": "emogoat\t🐐"
+  },
+  {
+   "contents": "0x1f528",   "trigger": "emohammer\t🔨"
+  },
+  {
+   "contents": "0x1f621",   "trigger": "emoface-pouting\t😡"
+  },
+  {
+   "contents": "0x23ea",   "trigger": "emofast-reverse-button\t⏪"
+  },
+  {
+   "contents": "0x1f50f",   "trigger": "emolock-with-pen\t🔏"
+  },
+  {
+   "contents": "0x1f61d",   "trigger": "emoface-with-stuck-out-tongue-and-tightly-closed-eyes\t😝"
+  },
+  {
+   "contents": "0x1f400",   "trigger": "emorat\t🐀"
+  },
+  {
+   "contents": "0x1f42f",   "trigger": "emotiger-face\t🐯"
+  },
+  {
+   "contents": "0x2639",   "trigger": "emoface-frowning\t☹"
+  },
+  {
+   "contents": "0x1f418",   "trigger": "emoelephant\t🐘"
+  },
+  {
+   "contents": "0x1f439",   "trigger": "emohamster-face\t🐹"
+  },
+  {
+   "contents": "0x1f4a8",   "trigger": "emodashing\t💨"
+  },
+  {
+   "contents": "0x1f559",   "trigger": "emoten-o’clock\t🕙"
+  },
+  {
+   "contents": "0x1f601",   "trigger": "emoface-grinning-with-smiling-eyes\t😁"
+  },
+  {
+   "contents": "0x1f520",   "trigger": "emoinput-latin-uppercase\t🔠"
+  },
+  {
+   "contents": "0x3030",   "trigger": "emowavy-dash\t〰"
+  },
+  {
+   "contents": "0x1f5dc",   "trigger": "emocompression\t🗜"
+  },
+  {
+   "contents": "0x1f37d",   "trigger": "emofork-and-knife-with-plate\t🍽"
+  },
+  {
+   "contents": "0x1f381",   "trigger": "emowrapped-present\t🎁"
+  },
+  {
+   "contents": "0x1f61b",   "trigger": "emoface-with-stuck-out-tongue\t😛"
+  },
+  {
+   "contents": "0x1f54a",   "trigger": "emodove\t🕊"
+  },
+  {
+   "contents": "0x1f21a",   "trigger": "emosquared-negation-ideograph\t🈚"
+  },
+  {
+   "contents": "0x1f402",   "trigger": "emoox\t🐂"
+  },
+  {
+   "contents": "0x1f4ca",   "trigger": "emobar-chart\t📊"
+  },
+  {
+   "contents": "0x1f30e",   "trigger": "emoglobe-showing-americas\t🌎"
+  },
+  {
+   "contents": "0x1f551",   "trigger": "emotwo-o’clock\t🕑"
+  },
+  {
+   "contents": "0x1f60b",   "trigger": "emoface-savouring-delicious-food\t😋"
+  },
+  {
+   "contents": "0x1f423",   "trigger": "emohatching-chick\t🐣"
+  },
+  {
+   "contents": "0x1f4cb",   "trigger": "emoclipboard\t📋"
+  },
+  {
+   "contents": "0x264f",   "trigger": "emoscorpius\t♏"
+  },
+  {
+   "contents": "0x1f54c",   "trigger": "emomosque\t🕌"
+  },
+  {
+   "contents": "0x1f302",   "trigger": "emoclosed-umbrella\t🌂"
+  },
+  {
+   "contents": "0x1f6ba",   "trigger": "emowomen’s-room\t🚺"
+  },
+  {
+   "contents": "0x1f48b",   "trigger": "emokiss-mark\t💋"
+  },
+  {
+   "contents": "0x1f3a9",   "trigger": "emotop-hat\t🎩"
+  },
+  {
+   "contents": "0x1f640",   "trigger": "emoweary-cat-face\t🙀"
+  },
+  {
+   "contents": "0x26f5",   "trigger": "emosailboat\t⛵"
+  },
+  {
+   "contents": "0x1f3b6",   "trigger": "emomusical-notes\t🎶"
+  },
+  {
+   "contents": "0x1f41c",   "trigger": "emoant\t🐜"
+  },
+  {
+   "contents": "0x1f6cb",   "trigger": "emocouch-and-lamp\t🛋"
+  },
+  {
+   "contents": "0x1f416",   "trigger": "emopig\t🐖"
+  },
+  {
+   "contents": "0x1f3dc",   "trigger": "emodesert\t🏜"
+  },
+  {
+   "contents": "0x1f343",   "trigger": "emoleaf-fluttering-in-wind\t🍃"
+  },
+  {
+   "contents": "0x1f31e",   "trigger": "emosun-with-face\t🌞"
+  },
+  {
+   "contents": "0x1f910",   "trigger": "emoface-zipper-mouth\t🤐"
+  },
+  {
+   "contents": "0x1f4a3",   "trigger": "emobomb\t💣"
+  },
+  {
+   "contents": "0x1f3b8",   "trigger": "emoguitar\t🎸"
+  },
+  {
+   "contents": "0x1f518",   "trigger": "emoradio-button\t🔘"
+  },
+  {
+   "contents": "0x1f4b3",   "trigger": "emocredit-card\t💳"
+  },
+  {
+   "contents": "0x1f405",   "trigger": "emotiger\t🐅"
+  },
+  {
+   "contents": "0x1f383",   "trigger": "emojack-o-lantern\t🎃"
+  },
+  {
+   "contents": "0x2b05",   "trigger": "emoleft-arrow\t⬅"
+  },
+  {
+   "contents": "0x1f5a8",   "trigger": "emoprinter\t🖨"
+  },
+  {
+   "contents": "0x1f55a",   "trigger": "emoeleven-o’clock\t🕚"
+  },
+  {
+   "contents": "0x1f58c",   "trigger": "emopaintbrush\t🖌"
+  },
+  {
+   "contents": "0x2696",   "trigger": "emobalance-scale\t⚖"
+  },
+  {
+   "contents": "0x1f317",   "trigger": "emolast-quarter-moon\t🌗"
+  },
+  {
+   "contents": "0x1f37b",   "trigger": "emoclinking-beer-mugs\t🍻"
+  },
+  {
+   "contents": "0x1f236",   "trigger": "emosquared-exist-ideograph\t🈶"
+  },
+  {
+   "contents": "0x2699",   "trigger": "emogear\t⚙"
+  },
+  {
+   "contents": "0x1f4af",   "trigger": "emohundred-points\t💯"
+  },
+  {
+   "contents": "0x1f519",   "trigger": "emoback-arrow\t🔙"
+  },
+  {
+   "contents": "0x1f4f6",   "trigger": "emoantenna-bars\t📶"
+  },
+  {
+   "contents": "0x1f481",   "trigger": "emoinformation-desk-person\t💁"
+  },
+  {
+   "contents": "0x1f6ab",   "trigger": "emoprohibited\t🚫"
+  },
+  {
+   "contents": "0x1f6c0",   "trigger": "emoperson-taking-bath\t🛀"
+  },
+  {
+   "contents": "0x1f4c8",   "trigger": "emochart-increasing\t📈"
+  },
+  {
+   "contents": "0x1f6ad",   "trigger": "emono-smoking\t🚭"
+  },
+  {
+   "contents": "0x1f3cb",   "trigger": "emoweight-lifter\t🏋"
+  },
+  {
+   "contents": "0x1f3e8",   "trigger": "emohotel\t🏨"
+  },
+  {
+   "contents": "0x1f980",   "trigger": "emocrab\t🦀"
+  },
+  {
+   "contents": "0x1f415",   "trigger": "emodog\t🐕"
+  },
+  {
+   "contents": "0x2666",   "trigger": "emodiamond-suit\t♦"
+  },
+  {
+   "contents": "0x1f634",   "trigger": "emoface-sleeping\t😴"
+  },
+  {
+   "contents": "0x1f4e7",   "trigger": "emoe-mail\t📧"
+  },
+  {
+   "contents": "0x1f523",   "trigger": "emoinput-symbols\t🔣"
+  },
+  {
+   "contents": "0x2692",   "trigger": "emohammer-and-pick\t⚒"
+  },
+  {
+   "contents": "0x1f6f3",   "trigger": "emopassenger-ship\t🛳"
+  },
+  {
+   "contents": "0x1f335",   "trigger": "emocactus\t🌵"
+  },
+  {
+   "contents": "0x1f34f",   "trigger": "emogreen-apple\t🍏"
+  },
+  {
+   "contents": "0x1f473",   "trigger": "emoman-with-turban\t👳"
+  },
+  {
+   "contents": "0x2693",   "trigger": "emoanchor\t⚓"
+  },
+  {
+   "contents": "0x1f45f",   "trigger": "emorunning-shoe\t👟"
+  },
+  {
+   "contents": "0x23eb",   "trigger": "emofast-up-button\t⏫"
+  },
+  {
+   "contents": "0x1f3ba",   "trigger": "emotrumpet\t🎺"
+  },
+  {
+   "contents": "0x260e",   "trigger": "emotelephone\t☎"
+  },
+  {
+   "contents": "0x2648",   "trigger": "emoaries\t♈"
+  },
+  {
+   "contents": "0x1f3b4",   "trigger": "emoflower-playing-cards\t🎴"
+  },
+  {
+   "contents": "0x1f44e",   "trigger": "emothumbs-down\t👎"
+  },
+  {
+   "contents": "0x25ab",   "trigger": "emowhite-small-square\t▫"
+  },
+  {
+   "contents": "0x1f3f3",   "trigger": "emowaving-white-flag\t🏳"
+  },
+  {
+   "contents": "0x1f563",   "trigger": "emoeight-thirty\t🕣"
+  },
+  {
+   "contents": "0x1f41b",   "trigger": "emobug\t🐛"
+  },
+  {
+   "contents": "0x1f6af",   "trigger": "emono-littering\t🚯"
+  },
+  {
+   "contents": "0x1f4c7",   "trigger": "emocard-index\t📇"
+  },
+  {
+   "contents": "0x1f630",   "trigger": "emoface-with-open-mouth-and-cold-sweat\t😰"
+  },
+  {
+   "contents": "0x26f7",   "trigger": "emoskier\t⛷"
+  },
+  {
+   "contents": "0x1f68b",   "trigger": "emotram-car\t🚋"
+  },
+  {
+   "contents": "0x26fa",   "trigger": "emotent\t⛺"
+  },
+  {
+   "contents": "0x26aa",   "trigger": "emowhite-circle\t⚪"
+  },
+  {
+   "contents": "0x1f446",   "trigger": "emobackhand-index-pointing-up\t👆"
+  },
+  {
+   "contents": "0x1f692",   "trigger": "emofire-engine\t🚒"
+  },
+  {
+   "contents": "0x1f4a0",   "trigger": "emodiamond-with-a-dot\t💠"
+  },
+  {
+   "contents": "0x1f617",   "trigger": "emoface-kissing\t😗"
+  },
+  {
+   "contents": "0x1f625",   "trigger": "emoface-disappointed-but-relieved\t😥"
+  },
+  {
+   "contents": "0x1f49e",   "trigger": "emorevolving-hearts\t💞"
+  },
+  {
+   "contents": "0x1f46e",   "trigger": "emopolice-officer\t👮"
+  },
+  {
+   "contents": "0x1f380",   "trigger": "emoribbon\t🎀"
+  },
+  {
+   "contents": "0x1f3c4",   "trigger": "emosurfer\t🏄"
+  },
+  {
+   "contents": "0x1f526",   "trigger": "emoflashlight\t🔦"
+  },
+  {
+   "contents": "0x1f69e",   "trigger": "emomountain-railway\t🚞"
+  },
+  {
+   "contents": "0x26e9",   "trigger": "emoshinto-shrine\t⛩"
+  },
+  {
+   "contents": "0x27b0",   "trigger": "emocurly-loop\t➰"
+  },
+  {
+   "contents": "0x1f4fb",   "trigger": "emoradio\t📻"
+  },
+  {
+   "contents": "0x263a",   "trigger": "emoface-smiling\t☺"
+  },
+  {
+   "contents": "0x1f371",   "trigger": "emobento-box\t🍱"
+  },
+  {
+   "contents": "0x1f436",   "trigger": "emodog-face\t🐶"
+  },
+  {
+   "contents": "0x1f3bd",   "trigger": "emorunning-shirt\t🎽"
+  },
+  {
+   "contents": "0x27a1",   "trigger": "emoright-arrow\t➡"
+  },
+  {
+   "contents": "0x1f385",   "trigger": "emosanta-claus\t🎅"
+  },
+  {
+   "contents": "0x1f4ef",   "trigger": "emopostal-horn\t📯"
+  },
+  {
+   "contents": "0x1f386",   "trigger": "emofireworks\t🎆"
+  },
+  {
+   "contents": "0x1f377",   "trigger": "emowine-glass\t🍷"
+  },
+  {
+   "contents": "0x1f697",   "trigger": "emoautomobile\t🚗"
+  },
+  {
+   "contents": "0x1f3ca",   "trigger": "emoswimmer\t🏊"
+  },
+  {
+   "contents": "0x1f22f",   "trigger": "emosquared-finger-ideograph\t🈯"
+  },
+  {
+   "contents": "0x2603",   "trigger": "emosnowman\t☃"
+  },
+  {
+   "contents": "0x1f4b5",   "trigger": "emodollar-banknote\t💵"
+  },
+  {
+   "contents": "0x1f49b",   "trigger": "emoyellow-heart\t💛"
+  },
+  {
+   "contents": "0x1f425",   "trigger": "emofront-facing-baby-chick\t🐥"
+  },
+  {
+   "contents": "0x1f6a8",   "trigger": "emopolice-car’s-light\t🚨"
+  },
+  {
+   "contents": "0x1f557",   "trigger": "emoeight-o’clock\t🕗"
+  },
+  {
+   "contents": "0x1f6a2",   "trigger": "emoship\t🚢"
+  },
+  {
+   "contents": "0x1f3ed",   "trigger": "emofactory\t🏭"
+  },
+  {
+   "contents": "0x1f5e1",   "trigger": "emodagger\t🗡"
+  },
+  {
+   "contents": "0x1f492",   "trigger": "emowedding\t💒"
+  },
+  {
+   "contents": "0x1f344",   "trigger": "emomushroom\t🍄"
+  },
+  {
+   "contents": "0x1f488",   "trigger": "emobarber-pole\t💈"
+  },
+  {
+   "contents": "0x1f388",   "trigger": "emoballoon\t🎈"
+  },
+  {
+   "contents": "0x1f373",   "trigger": "emocooking\t🍳"
+  },
+  {
+   "contents": "0x1f40e",   "trigger": "emohorse\t🐎"
+  },
+  {
+   "contents": "0x1f482",   "trigger": "emoguardsman\t💂"
+  },
+  {
+   "contents": "0x1f408",   "trigger": "emocat\t🐈"
+  },
+  {
+   "contents": "0x1f250",   "trigger": "emocircled-advantage-ideograph\t🉐"
+  },
+  {
+   "contents": "0x1f447",   "trigger": "emobackhand-index-pointing-down\t👇"
+  },
+  {
+   "contents": "0x1f44c",   "trigger": "emook-hand\t👌"
+  },
+  {
+   "contents": "0x1f3db",   "trigger": "emoclassical-building\t🏛"
+  },
+  {
+   "contents": "0x1f3e5",   "trigger": "emohospital\t🏥"
+  },
+  {
+   "contents": "0x1f64d",   "trigger": "emoperson-frowning\t🙍"
+  },
+  {
+   "contents": "0x1f694",   "trigger": "emooncoming-police-car\t🚔"
+  },
+  {
+   "contents": "0x1f327",   "trigger": "emocloud-with-rain\t🌧"
+  },
+  {
+   "contents": "0x1f379",   "trigger": "emotropical-drink\t🍹"
+  },
+  {
+   "contents": "0x1f644",   "trigger": "emoface-with-rolling-eyes\t🙄"
+  },
+  {
+   "contents": "0x1f4b2",   "trigger": "emoheavy-dollar-sign\t💲"
+  }
+  ]
+ }
+ 
