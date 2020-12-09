@@ -20,10 +20,9 @@ At this moment they are:
 * Added keys to toggle between harbour syntax and html syntax.
 
   You can use **`EMMET`** in a harbour code.
-
   Read about how to do it in the file **emmet.md**
 
-*  **`NEW`** Add emojies to your code 🙂 Hex value 0x1f642. (experimental) The trigger start tiping `emo..`. For now is only work on harbour code, as soon as possible will be also with html (Emmet).
+*  **`NEW`** Add emojies to your code 🙂 Hex value 0x1f642. (experimental) The trigger start tiping `emo..`. For now only works on harbour code, as soon as possible will be also with html (Emmet) in prg.
 
 
 ---
@@ -48,7 +47,7 @@ Contributions to this package are welcome.
 
 ### Installation.
 
-<details><summary>Expand instructions how to install</summary>
+<details><summary>**Expand to see instructions how to install**</summary>
 
 #### Downloading the zip package
 
