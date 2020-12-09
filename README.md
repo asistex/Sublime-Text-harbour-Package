@@ -44,6 +44,8 @@ Contributions to this package are welcome.
 [![image](https://github.com/asistex/Sublime-Text-harbour-Package/blob/master/slb.jpg)](https://github.com/asistex/Sublime-Text-harbour-Package/)
 
 
+[![image](https://github.com/asistex/ighoo/blob/master/bin/sublime.gif)](https://github.com/asistex/Sublime-Text-harbour-Package/)
+
 ### Installation.
 
 <details><summary>Expand instructions how to install</summary>
@@ -80,14 +82,6 @@ With this method you can get updates of this package using the Git command: **gi
 * 8- Open Sublime, load a file `.prg` . Click the label on the statusbar at the right corner and select **harbour** from the list. If the statusbar is hidden then goto **Main menu > View > Syntax**
 
 </details>
-
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/asistex/Sublime-Text-harbour-Package/master/images/ioticos.png" width="400px"</img>
-</div>
-
-
-[![image](https://github.com/asistex/ighoo/blob/master/bin/sublime.gif)](https://github.com/asistex/Sublime-Text-harbour-Package/)
 
 
 **https://github.com/asistex**
