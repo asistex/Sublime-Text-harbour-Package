@@ -1,7 +1,7 @@
 # Sublime-Text-harbour-Package
 Sublime Text and Harbour.
 
-### Package Last Update = 2020/12/12
+### Package Last Update = 2020/12/15
 
 This package has Harbour functions with the syntax.
 
@@ -17,14 +17,12 @@ At this moment they are:
 * hb_regex functions
 * Curl functions. (not all, need help with params)
 * mod_harbour functions
-* Added keys to toggle between harbour syntax and html syntax.
-
-  You can use **`EMMET`** in a harbour code.
-  Read about how to do it in the file **emmet.md**
+* Added keys to toggle between harbour syntax and html syntax.  You can use **`EMMET`** in a harbour code.  Read about how to do it in the file **emmet.md**
 
 * Add emojies to your code 🙂 Hex value 0x1f642. (experimental) The trigger start tiping `emo..`. For now only works on harbour code, as soon as possible will be also with html (Emmet) in prg.
 
 * MySql functions
+* SQLite3 (harbour wrapper) functions
 
 
 ---
